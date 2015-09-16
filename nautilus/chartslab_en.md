@@ -1,4 +1,4 @@
-#Explaining the Charts Lab Graphs#
+#Explaining the Charts Lab#
 * * *
 
 ##Average Block Size##
