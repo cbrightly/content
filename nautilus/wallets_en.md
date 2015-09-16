@@ -1,4 +1,5 @@
 # Introduction to Bitcoin Wallets #
+* * *
 
 ##What is a Bitcoin Wallet?##
 Bitcoin Wallets are for storing bitcoins. In most cases, a 'wallet' is a software app that lets users spend and receive bitcoins. Think of something that works like an online bank account, but is accessible as cash in a regular wallet. 
