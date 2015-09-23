@@ -12,7 +12,7 @@ We are a team of experienced data and analytical technologists. We make the tool
 
 To find out more about Challenger Deep, [please send us an email](mailto:hello@challenger-deep.com).
 
-**For other correspondence:**
+**For other correspondence:**  
 Challenger Deep  
 3 rue de Montyon  
 75009 Paris  
