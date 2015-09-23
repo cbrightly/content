@@ -13,9 +13,9 @@ We are a team of experienced data and analytical technologists. We make the tool
 To find out more about Challenger Deep, [please send us an email](mailto:hello@challenger-deep.com).
 
 **For other correspondence:**
-Challenger Deep
-3 rue de Montyon
-75009 Paris
-FRANCE
+Challenger Deep  
+3 rue de Montyon  
+75009 Paris  
+FRANCE  
 
 **Phone:** +33 9 67 17 86 04
