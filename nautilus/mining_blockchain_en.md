@@ -33,7 +33,7 @@ Some have estimated that the price of 1 BTC needs to be above $500-600 for a min
 
 In the past there have also been issues with access to the latest hardware, with some manufacturers promising unrealistic production and delivery schedules. As with any highly-competitive industry that relies on having the latest technology, an operator needs to be able to weather delays if/when they occur.
 
-##What is a Bitcoin Block?##  
+##What is a 'Bitcoin Block'?##
 
 When a bitcoin transaction is made, the system 'broadcasts' it to the global bitcoin network on the internet. Mining operations around the world then collect a list of these transactions and combine them into something called a 'block'. It is up to the miners' software to decide what transactions are included, so transactions that pay higher fees often have an advantage.
 
