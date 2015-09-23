@@ -7,3 +7,15 @@ New participants in a brand-new industry need the best information available, bu
 Challenger Deep’s comprehensive data will underpin successful businesses as they build the world’s new financial system.
 
 We are a team of experienced data and analytical technologists. We make the tools businesses need to explore the uncharted world of bitcoin, digital currency and blockchain technology. Whether you’re corporate or government, large or small, in need of a few facts or a steady stream of up-to-date information, Challenger Deep has the answers you’re looking for.
+
+##Contact Information##
+
+To find out more about Challenger Deep, [please send us an email](mailto:hello@challenger-deep.com).
+
+**For other correspondence:**
+Challenger Deep
+3 rue de Montyon
+75009 Paris
+FRANCE
+
+**Phone:** +33 9 67 17 86 04
