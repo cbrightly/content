@@ -82,7 +82,7 @@ In the beginning, it was possible to mine bitcoins on an ordinary desktop or lap
 
 Seeing both a business opportunity and technological advantage, companies formed to design and manufacture specialist chips that could perform bitcoin mining tasks extremely efficiently and well, and served no other purpose. These chips, called ASICs (application-specific integrated circuits) and the machines that housed them were expensive, but gave their users a massive hashing advantage. 
 
-ASIC use caused the hashing difficulty to rise exponentially. By mid-2013, most if not all serious bitcoin miners were using ASIC hardware, and those without them were mining miniscule amounts. Faster and more efficient ASICs have been produced ever since – so fine-tuned for bitcoin mining are these chips that, once they are obsolete, they cannot be used for any other purpose. The machines still function, but they will mine only miniscule amounts of bitcoin.
+ASIC use caused the hashing difficulty to rise exponentially. By early 2014, most if not all serious bitcoin miners were using ASIC hardware, and those without them were mining miniscule amounts. Faster and more efficient ASICs have been produced ever since – so fine-tuned for bitcoin mining are these chips that, once they are obsolete, they cannot be used for any other purpose. The machines still function, but they will mine only miniscule amounts of bitcoin.
 
 
 ##What Are Bitcoin Mining Pools?##
