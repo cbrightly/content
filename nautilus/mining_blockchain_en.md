@@ -33,13 +33,13 @@ Some have estimated that the price of 1 BTC needs to be above $500-600 for a min
 
 In the past there have also been issues with access to the latest hardware, with some manufacturers promising unrealistic production and delivery schedules. As with any highly-competitive industry that relies on having the latest technology, an operator needs to be able to weather delays if/when they occur.
 
-##What is a 'Bitcoin Block'?## 
+##What is a Bitcoin Block?##  
 
 When a bitcoin transaction is made, the system 'broadcasts' it to the global bitcoin network on the internet. Mining operations around the world then collect a list of these transactions and combine them into something called a 'block'. It is up to the miners' software to decide what transactions are included, so transactions that pay higher fees often have an advantage.
 
 The various miners then 'compete' for their block to become the official one for that 10 minute period. They all race to find the correct answer to a complex mathematical problem, devoting vast amounts of time and computing power to the task.
 
-##What do 'Proof-of-Work' and 'Hashing' Mean?
+##What do 'Proof-of-Work' and 'Hashing' Mean?##
 
 The math problem is based on a cryptographic 'hash' function performed on the block's 'header' data (information about a block that appears at the beginning of each one). The result, when expressed as a number, must be lower than a target value the network has set. The machines increment a random number in the hashing equation, in an attempt to get the desired result.  
 
@@ -117,7 +117,7 @@ Cloud mining has a number of benefits for both operators and investors: operator
 Disadvantages to cloud mining have included: some dishonest or incompetent operators, and dissatisfaction with payouts or customer service. There are also the problems that plague both operators and investors: fluctuating bitcoin prices relative to the initial costs laid out, the need to always have the latest bitcoin mining hardware, and the hardships suffered after lengthy delays in delivery of new equipment.
 
 
-##What is a 'Bitcoin Node' ?
+##What is a 'Bitcoin Node'?##
 
 A bitcoin node is a computer that stores a full copy of the bitcoin blockchain, going all the way back to the network's beginning in 2009. Such a machine is able to validate any bitcoin block from any time, and therefore helps to keep the network secure and decentralized without needing to do any mining. 
 
