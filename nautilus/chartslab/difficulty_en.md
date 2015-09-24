@@ -1,4 +1,4 @@
-##Difficulty##
+## Difficulty
 
 See also: [Bitcoin Mining](LINK)
 

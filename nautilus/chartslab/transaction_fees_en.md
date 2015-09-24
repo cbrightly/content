@@ -1,4 +1,4 @@
-##Transaction Fees##
+## Transaction Fees
 
 This chart records the amount, in BTC, that bitcoin users have paid in transaction fees on a daily basis.
 

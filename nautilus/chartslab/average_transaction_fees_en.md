@@ -1,4 +1,4 @@
-##Average Transaction Fees##
+##  Average Transaction Fees
 
 This chart shows the average amount paid (in millibitcoins, or mBTC) by senders in transaction fees to miners, per transaction.
 

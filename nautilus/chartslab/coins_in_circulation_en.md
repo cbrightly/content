@@ -1,4 +1,4 @@
-##Coins In Circulation##
+## Coins In Circulation
 
 This chart shows the total number of bitcoins in circulation today. Only 21 million bitcoins will ever exist, and this number cannot be changed. The system was designed to mine more bitcoins early in its lifespan and gradually diminish over time, which is why over 2/3 of the 21 million total are already in circulation.
 

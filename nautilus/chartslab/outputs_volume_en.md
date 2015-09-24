@@ -1,6 +1,6 @@
-##Outputs Volume##
+## Outputs Volume
 
-###What are bitcoin 'inputs' and 'outputs'?###
+### What are bitcoin 'inputs' and 'outputs'?#
 
 Bitcoin 'inputs' and 'outputs' can be difficult to understand at first, but they're vital to the way bitcoin functions. The best way is to imagine a bitcoin wallet as a real physical wallet, full of bills and coins.
 

@@ -1,4 +1,4 @@
-##Average Volume Per Transaction##
+## Average Volume Per Transaction
 
 This chart tells you the average amount of BTC sent in each transaction. Looking at the 'All Time' chart, you can see there were far bigger spikes in earlier years, when bitcoin was worth less in dollars and transactions tended to be larger. There is still, however, the occasional large spike when someone sends an unusually high amount in a transaction.
 

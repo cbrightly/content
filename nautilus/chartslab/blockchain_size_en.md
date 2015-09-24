@@ -1,4 +1,4 @@
-##Blockchain Size##
+## Blockchain Size
 
 This chart shows the total size (usually in gigabytes) of the bitcoin blockchain. If you are running a full bitcoin node [LINK] or mining operation [LINK], you will need to store the entire blockchain on your machine. It can be downloaded from scratch directly, but is also available as a bittorrent for faster download.
 

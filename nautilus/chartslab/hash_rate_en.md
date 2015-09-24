@@ -1,4 +1,4 @@
-##Hash Rate##
+## Hash Rate
 
 The Hash Rate chart is related closely to the Difficulty chart. The unit measured here is 'hashes per second' – or, the number of cryptographic hash functions performed by mining hardware on a bitcoin block header every second.
 

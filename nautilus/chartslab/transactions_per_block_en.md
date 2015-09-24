@@ -1,4 +1,4 @@
-##Transactions Per Block##
+## Transactions Per Block
 
 This is simply the total number of bitcoin transactions recorded in each block, with each block representing roughly 10 minutes in bitcoin's lifespan.
 

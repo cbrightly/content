@@ -1,4 +1,4 @@
-##Average Block Size##
+##  Average Block Size
 
 This is the size, in kilobytes, of the bitcoin blocks that are created roughly every 10 minutes [LINK TO 'BLOCKS']. The maximum size of a block is currently 1MB – though this is a controversial topic in the bitcoin community. 1MB limits the number of transactions that may fit into a block, which sometimes means those paying higher transaction fees get priority.
 
