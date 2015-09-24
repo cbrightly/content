@@ -1,6 +1,6 @@
 
 
-#Terms and Conditions of Use#
+# Terms and Conditions of Use
 
 By visiting the Challenger Deep website, and utilizing the data, information, tools, APIs, services and products ("Resources") available here, you demonstrate that you understand, accept and agree to adhere to Challenger Deep's terms and conditions ("T&C") as stated here. 
 
@@ -13,5 +13,3 @@ Resources may be accessed only by the means provided by Challenger Deep. Access,
 Challenger Deep does not permit the resale, copying, reproduction or duplication of any Resources provided here, with or without source attribution.  
 
 For terms related to the consequences of using Challenger Deep data, please see our Data Use Terms and Disclaimer [here](LINK).
-
-

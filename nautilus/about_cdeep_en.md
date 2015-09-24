@@ -1,4 +1,4 @@
-#About Challenger Deep#
+# About Challenger Deep
 
 Digital currency, and blockchain technology is cutting-edge and growing fast. Complex and multi-layered. Its scenery can change in an instant. How will you navigate it without reliable data?
 
@@ -8,7 +8,7 @@ Challenger Deep’s comprehensive data will underpin successful businesses as th
 
 We are a team of experienced data and analytical technologists. We make the tools businesses need to explore the uncharted world of bitcoin, digital currency and blockchain technology. Whether you’re corporate or government, large or small, in need of a few facts or a steady stream of up-to-date information, Challenger Deep has the answers you’re looking for.
 
-##Contact Information##
+## Contact Information
 
 To find out more about Challenger Deep, [please send us an email](mailto:hello@challenger-deep.com).
 
