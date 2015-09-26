@@ -64,9 +64,11 @@ The bitcoin network has never been successfully compromised. Despite numerous fa
 
 ##Is Bitcoin Legal?##
 
-This situation is ever-changing, but bitcoin use is legal in nearly all countries. A few jurisdictions around the world have indirectly restricted access to trading platforms (such as mainland China) or placed high compliance burdens on service providers (New York State). These days, even the most liberal jurisdictions (Japan, Hong Kong, Singapore, Canada, Australia UK) are considering whether the bitcoin industry should be subject to the same or different rules as the ‘traditional’ finance industry.
+This situation is ever-changing worldwide, but bitcoin use is legal in nearly all countries. A few jurisdictions around the world have indirectly restricted access to trading platforms (such as mainland China) or placed high compliance burdens on service providers (New York State). These days, even the most liberal jurisdictions (Japan, Hong Kong, Singapore, Canada, Australia UK) are considering whether the bitcoin industry should be subject to the same or different rules as the ‘traditional’ finance industry.
 
-More seriously, statements by central bank or government officials in other countries have at times caused confusion about the very legality of bitcoin. In some places these statements have been cleared up later to allow bitcoin businesses to operate (Thailand, India, Vietnam). In others, implied bans remain murky but unenforced (Russia, Ukraine, Iceland). Ecuador has also announced plans to ban bitcoin use in favor of its own official national cryptocurrency.
+More seriously, statements by central bank or government officials in other countries have at times caused confusion about the very legality of bitcoin. In some places these statements have been cleared up later to allow bitcoin businesses to operate (Thailand, India, Vietnam). In others, implied bans remain murky but unenforced (Ukraine, Iceland). 
+
+The Russian Ministry of Finance has been the most vocal in attempting to ban 'money substitutes' altogether, and wants to [introduce correctional penalties](http://www.coindesk.com/russian-ministry-correctional-labor-penalty-bitcoin-crimes/) for anyone using them. Ecuador has also announced plans to prohibit bitcoin use in favor of its own official national cryptocurrency.
 
 
 ##Do I have to pay tax on bitcoin?##
