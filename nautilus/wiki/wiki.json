@@ -57,7 +57,8 @@
         "How is our index computed ?",
         "Which exchanges are taken into account ?",
         "How can I use the index ?"
-      ]
+      ],
+      "live": false
     }
   ]
 }
