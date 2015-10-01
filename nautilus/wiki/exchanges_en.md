@@ -1,5 +1,4 @@
-#Introduction to Bitcoin Exchanges#
-* * *
+# Introduction to Bitcoin Exchanges #
 
 ## How Do I Use a Bitcoin Exchange? ##
 
