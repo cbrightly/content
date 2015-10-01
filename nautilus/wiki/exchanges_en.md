@@ -51,7 +51,7 @@ Non-fiat exchanges usually specialize in trading between multiple cryptocurrenci
 
 Examples of non-fiat, multiple cryptocurrency exchanges are [Cryptsy](https://www.cryptsy.com/) and [Poloniex](https://poloniex.com/), while [CoinArch](https://www.coinarch.com/) offers basic bitcoin derivatives and dollar-value balances without trading in actual dollars.
 
-## How to Choose a Bitcoin Exchange ##
+## How to Choose a Bitcoin Exchange ? ##
 
 This depends on two main things: the customer's level of experience, and their local area.
 

@@ -1,0 +1,63 @@
+{
+  "sections": [
+    {
+      "title": "Bitcoin Basics",
+      "slug": "bitcoin_basics",
+      "languages": ["en"],
+      "subtitles": [
+        "What is Bitcoin ?",
+        "Who own Bitcoin ?",
+        "How much is a Bitcoin worth ?"
+      ]
+    },
+    {
+      "title": "Exchanges",
+      "slug": "exchanges",
+      "languages": ["en"],
+      "subtitles": [
+        "How do I use a Bitcoin exchange ?",
+        "What types of Bitcoin exchanges are there ?",
+        "How to choose a Bitcoin exchange ?"
+      ]
+    },
+    {
+      "title": "Mempool",
+      "slug": "mempool",
+      "languages": ["en"],
+      "subtitles": [
+        "What is the mempool ?",
+        "How are the mempool and the blocks size related ?"
+      ]
+    },
+    {
+      "title": "Introduction to Bitcoin Mining",
+      "slug": "mining_blockchain",
+      "languages": ["en"],
+      "subtitles": [
+        "What is Bitcoin Mining ?",
+        "Can I mine bitcoins on my PC or mobile phone ?",
+        "Is Bitcoin Mining Profitable ?"
+      ]
+    },
+    {
+      "title": "Introduction to Bitcoin Wallets",
+      "slug": "wallets",
+      "languages": ["en"],
+      "subtitles": [
+        "What is a Bitcoin wallet ?",
+        "What is a Bitcoin address ?",
+        "How many addresses are there ?"
+      ]
+    },
+    {
+      "title": "Challenger Deep's Price Index",
+      "slug": "methodology",
+      "languages": ["en"],
+      "subtitles": [
+        "How is our index computed ?",
+        "Which exchanges are taken into account ?",
+        "How can I use the index ?"
+      ]
+    }
+  ]
+}
