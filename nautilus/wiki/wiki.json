@@ -30,17 +30,17 @@
       ]
     },
     {
-      "title": "Introduction to Bitcoin Mining",
+      "title": "Mining",
       "slug": "mining_blockchain",
       "languages": ["en"],
       "subtitles": [
         "What is Bitcoin Mining ?",
-        "Can I mine bitcoins on my PC or mobile phone ?",
+        "Can I mine bitcoins on my PC ?",
         "Is Bitcoin Mining Profitable ?"
       ]
     },
     {
-      "title": "Introduction to Bitcoin Wallets",
+      "title": "Wallets",
       "slug": "wallets",
       "languages": ["en"],
       "subtitles": [
@@ -50,7 +50,7 @@
       ]
     },
     {
-      "title": "Challenger Deep's Price Index",
+      "title": "Price Index",
       "slug": "methodology",
       "languages": ["en"],
       "subtitles": [
