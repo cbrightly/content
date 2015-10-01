@@ -1,11 +1,11 @@
 # How Does Bitcoin Work? #
 
-### A Basic Introduction to Bitcoin Mining and the Blockchain###
+### A Basic Introduction to Bitcoin Mining and the Blockchain  ###
 Bitcoin mining is a specialist and technical process, however it is possible to understand the basic concepts and functionality without needing a thorough knowledge. 
 
 This guide is intended to be a fairly entry-level introduction to bitcoin mining and its surrounding terminology, though some technical knowledge may be needed.
 
-##What is Bitcoin Mining?##
+## What is Bitcoin Mining? ##
 
 The first thing to understand is that the word 'mining' in bitcoin is a metaphor. There is no physical work, process or product involved, other than installing large computer hardware facilities.
 
@@ -17,7 +17,7 @@ Miners operate around the world, both as solo operators with as little as one mi
 
 For these reasons, many large-scale mining operations are located in places such as near the Arctic Circle, rural China, or anywhere with a cheap and ready source of power.
 
-##Can I mine bitcoins on my PC or mobile phone?##
+## Can I mine bitcoins on my PC or mobile phone? ##
 
 These days, the simple answer to that question is ‘no’. Bitcoin mining is performed with specialized hardware designed and built specifically for that purpose (see ‘mining hardware’). When the bitcoin network only had a few participants, it was possible to generate new bitcoins on a basic desktop or laptop CPU. But as the number of participants increased and the total power of the network grew, those CPUs generated fewer and eventually no new coins. CPUs that form the core of desktop and mobile systems, no matter how powerful, are not designed to handle the kind of repetitive mathematical tasks bitcoin mining demands (see ‘Proof of Work’).
 
@@ -25,7 +25,7 @@ After CPUs fell away, new bitcoin creation was performed on home-built mining ri
 
 For more information on why older machines cannot be used, see ‘Hashrate’ and ‘Bitcoin Mining Difficulty’.
 
-##Is Bitcoin Mining Profitable?##
+## Is Bitcoin Mining Profitable? ##
 
 This is the million-dollar question, and the answer is based on a number of variables. Overhead costs like electricity, equipment, physical facility, maintenance and staff are all factors. The costs of these depend heavily on location. Perhaps most important of all, however, is the bitcoin price.
 
@@ -33,13 +33,13 @@ Some have estimated that the price of 1 BTC needs to be above $500-600 for a min
 
 In the past there have also been issues with access to the latest hardware, with some manufacturers promising unrealistic production and delivery schedules. As with any highly-competitive industry that relies on having the latest technology, an operator needs to be able to weather delays if/when they occur.
 
-##What is a 'Bitcoin Block'?##
+## What is a 'Bitcoin Block'? ##
 
 When a bitcoin transaction is made, the system 'broadcasts' it to the global bitcoin network on the internet. Mining operations around the world then collect a list of these transactions and combine them into something called a 'block'. It is up to the miners' software to decide what transactions are included, so transactions that pay higher fees often have an advantage.
 
 The various miners then 'compete' for their block to become the official one for that 10 minute period. They all race to find the correct answer to a complex mathematical problem, devoting vast amounts of time and computing power to the task.
 
-##What do 'Proof-of-Work' and 'Hashing' Mean?##
+## What do 'Proof-of-Work' and 'Hashing' Mean? ##
 
 The math problem is based on a cryptographic 'hash' function performed on the block's 'header' data (information about a block that appears at the beginning of each one). The result, when expressed as a number, must be lower than a target value the network has set. The machines increment a random number in the hashing equation, in an attempt to get the desired result.  
 
@@ -55,7 +55,7 @@ A new block begins and 25 new bitcoins are created. The winning miner receives t
 
 As soon as one block is solved, miners begin working on the next one. 
 
-##What Does 'Hashrate' Mean in Bitcoin?##
+## What Does 'Hashrate' Mean in Bitcoin? ##
 
 When looking at mining statistics, you will see the term 'hashes per second'. This is how many hashing functions the mining network collectively is performing on the block header data every second. Currently, this is measured in the billions ('gigahashes' or GH/s), trillions ('terahashes' or TH/s) or even quadrillions ('petahashes' or PH/s). 
 
@@ -63,7 +63,7 @@ The bitcoin mining hashrate is currently around the 360,000 TH/s mark, but fluct
 
 
 
-##What is Bitcoin Mining Difficulty?##
+## What is Bitcoin Mining Difficulty? ##
 
 In order for transaction blocks to be verified and created around once every 10 minutes, even as mining computing power increases, the difficulty of the math problem is designed to vary. The more hashing power the network has, the more difficult the problem.
 
@@ -76,7 +76,7 @@ Looking at an 'all-time' chart for mining difficulty, you can see an exponential
 There is a constant race to always have the most cutting-edge mining hardware, as this confers an advantage in the race to solve blocks and collect the newly-minted bitcoins. Any advantage is temporary, however, as the new technology soon filters through to everyone on the network.
 
 
-##What Kind of Hardware is Needed To Mine Bitcoins?##
+## What Kind of Hardware is Needed To Mine Bitcoins? ##
 
 In the beginning, it was possible to mine bitcoins on an ordinary desktop or laptop computer. As more joined the network, the competition and thus difficulty increased. Users built purpose-built mining rigs using graphics cards (or GPUs) better suited for the repetitive hashing process.
 
@@ -85,7 +85,7 @@ Seeing both a business opportunity and technological advantage, companies formed
 ASIC use caused the hashing difficulty to rise exponentially. By early 2014, most if not all serious bitcoin miners were using ASIC hardware, and those without them were mining miniscule amounts. Faster and more efficient ASICs have been produced ever since – so fine-tuned for bitcoin mining are these chips that, once they are obsolete, they cannot be used for any other purpose. The machines still function, but they will mine only miniscule amounts of bitcoin.
 
 
-##What Are Bitcoin Mining Pools?##
+## What Are Bitcoin Mining Pools? ##
 
 A mining pool allows bitcoin block rewards to be shared out over a large group of miners, rather than each one competing individually.
 
@@ -97,7 +97,7 @@ When that pool's server solves a block, the new bitcoins are distributed evenly 
 
 There are roughly 10 dominant mining pools currently on the bitcoin network, plus several smaller ones. You can see their share of the hashing power on [these charts](LINK-to-Chart).
 
-###Mining Pools: Disadvantages###
+### Mining Pools: Disadvantages  ###
 
 Miners can join and leave pools anytime they like, and several pools have risen and fallen in prominence over the years. The larger the pool, the more money it is likely to make its members. 
 
@@ -106,7 +106,7 @@ One concern surrounding mining pools is that one [may become too powerful](http:
 In the past, when a single pool has come close to that level of hashing power, its members have [voluntarily left to join other pools](http://www.coindesk.com/bitfury-pulls-power-ghash-community-uproar/) and safeguard the network's integrity. 
 
 
-##What is Bitcoin 'Cloud Mining'?##
+## What is Bitcoin 'Cloud Mining'? ##
 
 'Cloud mining' is where investors buy shares in a larger mining operation located elsewhere, rather than having to buy and operate the hardware themselves.
 
@@ -117,7 +117,7 @@ Cloud mining has a number of benefits for both operators and investors: operator
 Disadvantages to cloud mining have included: some dishonest or incompetent operators, and dissatisfaction with payouts or customer service. There are also the problems that plague both operators and investors: fluctuating bitcoin prices relative to the initial costs laid out, the need to always have the latest bitcoin mining hardware, and the hardships suffered after lengthy delays in delivery of new equipment.
 
 
-##What is a 'Bitcoin Node'?##
+## What is a 'Bitcoin Node'? ##
 
 A bitcoin node is a computer that stores a full copy of the bitcoin blockchain, going all the way back to the network's beginning in 2009. Such a machine is able to validate any bitcoin block from any time, and therefore helps to keep the network secure and decentralized without needing to do any mining. 
 

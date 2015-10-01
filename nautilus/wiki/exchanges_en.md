@@ -1,7 +1,7 @@
 #Introduction to Bitcoin Exchanges#
 * * *
 
-##How Do I Use a Bitcoin Exchange?##
+## How Do I Use a Bitcoin Exchange? ##
 
 A bitcoin exchange works like any currency trader people use when travelling. Give it some money, and it gives back the equivalent in another currency – usually minus a small fee.
 
@@ -11,11 +11,11 @@ These days, most (but not all) exchanges follow strict rules to comply with inte
 
 To trade in and out of local currencies, customers will probably have to link a bank account, make over-the-counter deposits, or use a third-party payment processor. If a customer wishes to deposit and withdraw in BTC only (trading within the exchange only) bank accounts are not necessary.
 
-##What Types of Bitcoin Exchanges Are There?##
+## What Types of Bitcoin Exchanges Are There? ##
 
 There are a few different types of bitcoin exchange to cater to different needs: mainly consumer and professional. Here is a basic guide to some of the features they offer, and what they require from users.
 
-###Simple brokerage exchange###
+### Simple brokerage exchange  ###
 
 These exchanges are the easiest to use. The exchange sets a single price (the current market price plus a trading fee) for 'buying' and 'selling' bitcoin, meaning the customer has only a few buttons to click. 
 
@@ -23,7 +23,7 @@ Simple brokerage exchanges often serve local markets where access to more advanc
 
 Examples of major simple bitcoin brokerages are: [Coinbase](https://www.coinbase.com/) (basic service) and [Circle](https://www.circle.com/), plus local exchanges [Bitcoin Indonesia](https://www.bitcoin.co.id/), [Bitcoin Vietnam](https://www.bitcoinvietnam.com.vn/) (basic service), [Unocoin](https://www.unocoin.com/) (India) and [BitX](https://bitx.co/) (multiple countries).
 
-###Open order book (‘live’) exchange: Market, Limit and Range orders###
+### Open order book (‘live’) exchange: Market, Limit and Range orders  ###
 
 Slightly more complicated for amateurs, these exchanges allow trading at current market price ('market order') but also let customers set a desired price ('limit order'). In this case, the trade only executes when the bitcoin price rises or falls to the customer's choice, otherwise it sits in wait. Customers may also set a wider price range ('range order') rather than an exact one. 
 
@@ -31,7 +31,7 @@ These exchanges usually also have basic charts to show price direction and an or
 
 Examples of live, open-order book exchanges include [Coinbase Exchange](https://exchange.coinbase.com/) (available only in certain jurisdictions) [BTC-e](https://btc-e.com/) and [Bitstamp](https://www.bitstamp.net/).
 
-###Professional exchange###
+### Professional exchange  ###
 
 These exchanges have all the features of the previous two, plus a range of features and tools to attract far more experienced forex (foreign exchange) traders. Options vary greatly, but can include margin trading, leverage, bitcoin lending with interest, multiple currencies, 
 
@@ -43,7 +43,7 @@ Note: Exchanges with multiple currencies usually allow trading between BTC and o
 
 Advanced-feature professional exchanges are often based outside the US and EU, and include [OKCoin](https://www.okcoin.com/) (China/Singapore), [Huobi](https://www.huobi.com/?lang=en) and its partners (China) and [Bitfinex](https://www.bitfinex.com/) (Hong Kong). 
 
-###Non-fiat exchanges###
+### Non-fiat exchanges  ###
 
 These exchanges can offer some or all of the services listed above, but with a twist: trades, purchases, sales, deposits and withdrawals are available in cryptocurrency only. They do not trade in national/fiat currencies at all.
 
@@ -51,13 +51,13 @@ Non-fiat exchanges usually specialize in trading between multiple cryptocurrenci
 
 Examples of non-fiat, multiple cryptocurrency exchanges are [Cryptsy](https://www.cryptsy.com/) and [Poloniex](https://poloniex.com/), while [CoinArch](https://www.coinarch.com/) offers basic bitcoin derivatives and dollar-value balances without trading in actual dollars.
 
-##How to Choose a Bitcoin Exchange##
+## How to Choose a Bitcoin Exchange ##
 
 This depends on two main things: the customer's level of experience, and their local area.
 
 Challenger Deep keeps detailed records of the most popular bitcoin exchanges, with information on their services offered, prices and volumes.
 
-###Location###
+### Location  ###
 
 Most customers select an exchange in their own country or region (if available). This greatly simplifies local currency transfers in and out of exchanges, and linking bank accounts. They are more likely to be compliant with local laws and thus save potential regulatory hassle. Customers also avoid the fee that would come with an additional currency exchange, meaning local exchanges are also best for transferring small amounts.
 
@@ -69,11 +69,11 @@ Customers who want to trade larger amounts, and thus don't mind paying for inter
 
 For this reason, many exchanges located in places like Hong Kong, Singapore or the EU will offer trading in various popular currencies.
 
-###Level of Trading Experience###
+### Level of Trading Experience  ###
 
 Some exchanges are more consumer-oriented while others try to attract professional-level traders. See our section '[What Types of Bitcoin Exchanges Are There?]()' for more details. 
 
-##What is a 'Fiat Currency'?##
+## What is a 'Fiat Currency'? ##
 
 Most national (paper) currencies are called 'fiat currencies'. This means the unit itself has no value other than the backing of the government that issues it. It is not backed by, or redeemable for, a precious metal like gold or any other commodity.
 
@@ -81,7 +81,7 @@ Bitcoin, since it is not the property of any government or authority, is not a f
 
 Fiat currencies have been both successful at retaining value (like the US and Canadian dollar), constantly-replaced (as happened in Brazil and Argentina), or disastrous (like the Serbian dinar or Zimbabwean dollar) depending on the international standing or economic condition of the country backing it. Some fiat currencies are multi-national, like the Euro.
 
-##What Do Exchange 'Liquidity' and 'Volumes' Mean?##
+## What Do Exchange 'Liquidity' and 'Volumes' Mean? ##
 
 'Liquidity' in bitcoin and elsewhere refers to the number of units an exchange can trade without 
 
@@ -93,11 +93,11 @@ Some bitcoin exchanges have, at times, been accused of 'artificially' inflating 
 
 Challenger Deep's exchanges data features a proprietary algorithm that provides the most accurate picture of exchanges' 'true' trading volumes, giving users a better chance at choosing the right trading platform.
 
-##Note: Bitcoin Exchanges Operate as Separate Markets##
+## Note: Bitcoin Exchanges Operate as Separate Markets ##
 
 Unlike the international forex market for national currencies, bitcoin exchanges are not linked. That is, they are not brokerages accessing one big global pool of trading and liquidity. While the prices on major bitcoin exchanges generally influence smaller exchanges and each other, there may be major variations due to a current issue with a particular exchange (eg: system downtime, security problem, rumors or location). Smaller exchanges may also have issues with market liquidity and prompt ability to withdraw fiat currencies to bank accounts.
 
-##What are Bitcoin Price Indexes For?##
+## What are Bitcoin Price Indexes For? ##
 
 Since bitcoin markets operate as separate entities, their prices are not always exactly the same. Though the difference is generally a few dollars, some exchanges’ prices may deviate markedly from the pack due to issues unique to that exchange. 
 
@@ -113,7 +113,7 @@ Other well-known examples are CoinDesk’s [Bitcoin Price Index](http://www.coin
 
 Bitcoin Price Indexes, like those available on Challenger Deep or CoinDesk, will compare prices from various exchanges using their own algorithms to work out the most accurate average. 
 
-##Are there other kinds of indexes? What do they show?##
+## Are there other kinds of indexes? What do they show? ##
 
 Yes, certainly. Some indexes gather data from sources other than just price to indicate where the price (and general mood) is heading. These might include levels of investment capital, positive vs. negative news stories in the media, developer and entrepreneur interest, and online interactions. 
 
