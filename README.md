@@ -21,3 +21,23 @@ Once ready, add it to the ```wiki.json```:
     "not_live": true // default to false - use only if you want to remove this section from the website
   }
 ```
+
+### Available Classes:
+
+#### header h1 (#):
+The file must start with an h1. This give a large blue underlined title
+Please use only one per file!
+
+#### headers h2 (##) , h3 (###):
+Use as many as you'd like to separate you sections
+
+#### paragraph p:
+Just plain text
+
+IMPORTANT: hashtags for headers must be followed/preceded by a blank space, otherwise the compile won't recognize it:
+```## My Awesome Subtitle ##```
+
+## License
+
+Except where otherwise noted, content on this site is licensed under a Creative Commons Attribution 4.0 International license.
+See License.md for more infos
