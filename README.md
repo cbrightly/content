@@ -1,5 +1,5 @@
 # content
-Text content for the [Challenger Deep](https://www.challenger-deep.com) website
+Text content for the [Kaiko](https://www.challenger-deep.com) website
 
 ## Wiki: How to edit
 

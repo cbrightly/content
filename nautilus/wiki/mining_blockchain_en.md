@@ -69,7 +69,7 @@ In order for transaction blocks to be verified and created around once every 10 
 
 The bitcoin network assesses the total hashing power available and adjusts difficulty every 2,016 blocks, or around once every two weeks. 
 
-See Challenger Deep's chart showing [bitcoin mining difficulty](LINK-to-chart) for exact data. Difficulty is constantly increasing as technology improves and machines become more powerful.
+See Kaiko's chart showing [bitcoin mining difficulty](LINK-to-chart) for exact data. Difficulty is constantly increasing as technology improves and machines become more powerful.
 
 Looking at an 'all-time' chart for mining difficulty, you can see an exponential increase that began around the end of 2013/start of 2014. This is when the first hardware designed specifically for bitcoin mining, called ASICs, began to appear (see 'Mining Hardware').
 
@@ -123,7 +123,7 @@ A bitcoin node is a computer that stores a full copy of the bitcoin blockchain, 
 
 Full bitcoin nodes may also serve as 'trusted' access points for light bitcoin wallets and clients (see 'wallets' section for more information), so things like mobile bitcoin wallets can communicate with the network without needing to download the entire blockchain.
 
-At the time of writing this is 42GB of data and is always increasing. See Challenger Deep's [blockchain size chart](LINK-to-chart) to see its current size.
+At the time of writing this is 42GB of data and is always increasing. See Kaiko's [blockchain size chart](LINK-to-chart) to see its current size.
 
 To operate properly as a bitcoin node, the operator must have a connection open and a machine operating without sleeping at least six hours a day (preferably 24 hours).
 They must also allow incoming connections on port 8333, which is not always available to everyone without manual router/firewall configuration. 

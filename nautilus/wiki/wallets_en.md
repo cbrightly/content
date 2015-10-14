@@ -25,7 +25,7 @@ This is a string of around 30 alphanumeric characters, starting with 1 or 3, whi
 
 Bitcoin addresses are also sometimes referred to as 'public keys'.
 
-Addresses may exist completely offline and can be printed on physical objects. Even if only used once, every address is permanent and can hold a bitcoin value forever if required. To view the current value of any bitcoin address ever created, use Challenger Deep's [Blockchain Explorer](LINK)
+Addresses may exist completely offline and can be printed on physical objects. Even if only used once, every address is permanent and can hold a bitcoin value forever if required. To view the current value of any bitcoin address ever created, use Kaiko's [Blockchain Explorer](LINK)
 
 ### How Many Bitcoin Addresses Are There?  ###
 

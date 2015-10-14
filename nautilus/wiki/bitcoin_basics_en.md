@@ -9,7 +9,7 @@ It exists almost entirely on the internet and does not take any physical form. P
 
 All bitcoin transactions are recorded permanently on a publicly-visible ledger called the ‘blockchain’. A copy of the blockchain exists on every node in the bitcoin network.
 
-Bitcoin can be used by anyone in the world, at any time, with access to an internet-connected computer or smartphone. Users can send or store bitcoins with software apps known as 'wallets', or store them completely offline on paper or in hardware-based wallets (see Challenger Deep's [wallets section](LINK) for more information.
+Bitcoin can be used by anyone in the world, at any time, with access to an internet-connected computer or smartphone. Users can send or store bitcoins with software apps known as 'wallets', or store them completely offline on paper or in hardware-based wallets (see Kaiko's [wallets section](LINK) for more information.
 
 Currently, bitcoins have a number of uses. They can be spent as money at online and physical merchants that accept them, or as payment between people. They often serve as an investment or as speculative instruments by currency traders. A number of uses for bitcoin and its blockchain are emerging that do not concern money at all – such as registration of asset ownership, or contracts.
 
@@ -36,11 +36,11 @@ Unlike other forms of electronic payment, bitcoin transactions are either free o
 
 ## How Anonymous Or Private is Bitcoin? ##
 
-All bitcoin transactions are permanent, and recorded on a database called the ‘blockchain’. The blockchain is shared and verified by bitcoin users around the world, with all records publicly viewable. See Challenger Deep’s [blockchain explorer](LINK) to see how bitcoin's entire transaction history is searchable. 
+All bitcoin transactions are permanent, and recorded on a database called the ‘blockchain’. The blockchain is shared and verified by bitcoin users around the world, with all records publicly viewable. See Kaiko’s [blockchain explorer](LINK) to see how bitcoin's entire transaction history is searchable.
 
 Real names are not attached to bitcoin transactions, however they all show bitcoin addresses, amounts sent and received, and times. Comparing this data with other information may enable analysts to reveal identities in some cases.
 
-For more details about the bitcoin blockchain and the information it contains, see Challenger Deep's more [detailed explanation](LINK-to-Blockchain-section)
+For more details about the bitcoin blockchain and the information it contains, see Kaiko's more [detailed explanation](LINK-to-Blockchain-section)
 
 ## How Do You Buy and Sell Bitcoins? ##
 
@@ -54,7 +54,7 @@ Bitcoin was released onto the internet in January 2009 by a cryptographer known 
 
 Satoshi Nakamoto ceased communicating in early 2011, and the real identity and location behind the pseudonym has never been revealed. Despite frequent attempts by the media and bitcoin community to find bitcoin's inventor, he/she remains anonymous. 'Satoshi Nakamoto' may even refer to a group of people, since the concept of an independent, P2P, internet-based electronic currency has been discussed by cryptographers for nearly three decades. 
 
-Bitcoin remained mainly an internet curiosity for the first few years, with a price that varied between just a few cents and around USD$22 in that time. In early 2013, however, the stakes rose markedly and the wider world started paying attention. The value of one bitcoin suddenly went from $17 in January to over $250 in April. It then crashed and fluctuated throughout that year until rocketing up again, this time to over $1000. Since December 2013, however, the bitcoin price has mostly declined or stayed level for lengthy periods of time. See Challenger Deep's [full historical price chart](LINK-to-Chart) for more information.
+Bitcoin remained mainly an internet curiosity for the first few years, with a price that varied between just a few cents and around USD$22 in that time. In early 2013, however, the stakes rose markedly and the wider world started paying attention. The value of one bitcoin suddenly went from $17 in January to over $250 in April. It then crashed and fluctuated throughout that year until rocketing up again, this time to over $1000. Since December 2013, however, the bitcoin price has mostly declined or stayed level for lengthy periods of time. See Kaiko's [full historical price chart](LINK-to-Chart) for more information.
 
 ## Who Keeps the Bitcoin Network Updated? ##
 

@@ -6,6 +6,6 @@ You can see exactly which transactions are waiting in the current mempool [here]
 
 ### Mempool and the Bitcoin Block Size Issue ###
 
-Mempool size is shown on Challenger Deep's [Blockchain Data chart](LINK) as an orange dotted line. It shows how effectively the bitcoin network is clearing transactions by adding them to blocks – if the line is approaching the current 1MB block size maximum limit, there's a chance low-fee transactions will not be included in the next confirmed block. If the line passes 1MB, some transactions will definitely not be included.
+Mempool size is shown on Kaiko's [Blockchain Data chart](LINK) as an orange dotted line. It shows how effectively the bitcoin network is clearing transactions by adding them to blocks – if the line is approaching the current 1MB block size maximum limit, there's a chance low-fee transactions will not be included in the next confirmed block. If the line passes 1MB, some transactions will definitely not be included.
 
 The mempool is usually (though not always) completely emptied as miners confirm each block. Our chart shows whether that has happened or not.

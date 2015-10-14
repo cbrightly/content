@@ -36,7 +36,7 @@ These exchanges have all the features of the previous two, plus a range of featu
 
 Amateurs can use professional exchanges to make simple trades, though a basic knowledge of trading terminology is required.
 
-Professional traders can use their exchange's charts or, better still, specialized data tools like those available on Challenger Deep. Challenger Deep also offers fast live updates and comparisons between various popular exchanges, as well as the most accurate information on exchange liquidity. 
+Professional traders can use their exchange's charts or, better still, specialized data tools like those available on Kaiko. Kaiko also offers fast live updates and comparisons between various popular exchanges, as well as the most accurate information on exchange liquidity.
 
 Note: Exchanges with multiple currencies usually allow trading between BTC and one other currency at a time only, though as platforms become more like the mainstream forex industry, at least one ([Quoine](https://www.quoine.com/)) has begun to offer trading between local currencies without touching bitcoin at all.
 
@@ -54,7 +54,7 @@ Examples of non-fiat, multiple cryptocurrency exchanges are [Cryptsy](https://ww
 
 This depends on two main things: the customer's level of experience, and their local area.
 
-Challenger Deep keeps detailed records of the most popular bitcoin exchanges, with information on their services offered, prices and volumes.
+Kaiko keeps detailed records of the most popular bitcoin exchanges, with information on their services offered, prices and volumes.
 
 ### Location  ###
 
@@ -90,7 +90,7 @@ Put simply, if there aren't many traders on a particular exchange, selling only 
 
 Some bitcoin exchanges have, at times, been accused of 'artificially' inflating volumes in order to appear more popular and liquid, in order to attract more customers. While actual reasons for this are unknown, the exchanges' most common explanation is that abormal-looking high volumes are due to external high-frequency traders accessing the platforms via their APIs. 
 
-Challenger Deep's exchanges data features a proprietary algorithm that provides the most accurate picture of exchanges' 'true' trading volumes, giving users a better chance at choosing the right trading platform.
+Kaiko's exchanges data features a proprietary algorithm that provides the most accurate picture of exchanges' 'true' trading volumes, giving users a better chance at choosing the right trading platform.
 
 ## Note: Bitcoin Exchanges Operate as Separate Markets ##
 
@@ -106,11 +106,11 @@ Therefore, it is necessary to aggregate price data from various exchanges in ord
 
 Bitcoin price indexes may be simple averages of different exchanges chosen by a select criteria, or may include other data points or weightings depending on what the index considers meaningful.
 
-The best example is Challenger Deep’s own ‘[Real Volumes Index]()’. See our ‘methodology’ section for details on how it is calculated. 
+The best example is Kaiko’s own ‘[Real Volumes Index]()’. See our ‘methodology’ section for details on how it is calculated.
 
 Other well-known examples are CoinDesk’s [Bitcoin Price Index](http://www.coindesk.com/price/) and the Winklevoss brothers’ [Winkdex](https://winkdex.com/). 
 
-Bitcoin Price Indexes, like those available on Challenger Deep or CoinDesk, will compare prices from various exchanges using their own algorithms to work out the most accurate average. 
+Bitcoin Price Indexes, like those available on Kaiko or CoinDesk, will compare prices from various exchanges using their own algorithms to work out the most accurate average.
 
 ## Are there other kinds of indexes? What do they show? ##
 
@@ -118,9 +118,9 @@ Yes, certainly. Some indexes gather data from sources other than just price to i
 
 Providers’ index algorithms weight different data points in proprietary ways to show information they regard as meaningful.
 
-One important example is Challenger Deep’s ‘[Fear Index](LINK)', which displays a chart of multiple factors that could determine bitcoin price movements – which are not always obvious. 
+One important example is Kaiko’s ‘[Fear Index](LINK)', which displays a chart of multiple factors that could determine bitcoin price movements – which are not always obvious.
 
 Another example is bitcoin VC firm Pantera Capital’s weekly ‘[BitIndex](https://panteracapital.com/bitindex/)' which is calculated from seven data points including Wikipedia views, hashrate, merchant adoption, transaction volumes and Google searches.
 
-**_*Note: Companies mentioned as examples in this guide should not be viewed as an endorsement by Challenger Deep. Users should engage in their own research before trusting funds to any product or service._**
+**_*Note: Companies mentioned as examples in this guide should not be viewed as an endorsement by Kaiko. Users should engage in their own research before trusting funds to any product or service._**
 
