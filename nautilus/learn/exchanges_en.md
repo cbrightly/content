@@ -82,7 +82,7 @@ Fiat currencies have been both successful at retaining value (like the US and Ca
 
 ## What Do Exchange 'Liquidity' and 'Volumes' Mean? ##
 
-'Liquidity' in bitcoin and elsewhere refers to the number of units an exchange can trade without 
+'Liquidity' in bitcoin and elsewhere refers to the number of units an exchange can trade without substantially moving the price up or down.
 
 Put simply, if there aren't many traders on a particular exchange, selling only a handful of bitcoins would see a big drop in price. The more users and trades, the higher the liquidity, the more stable the price and the easier it is to buy or sell. 
 
