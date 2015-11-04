@@ -1,0 +1,126 @@
+{
+  "/": {
+    "title": "Bitcoin Data",
+    "description": "Comprehensive, real-time data source for Bitcoin prices, markets, network, mining, blockchain and transactions"
+  },
+  "markets" : {
+    "title": "",
+    "description": ""
+  },
+  "blockchain" : {
+    "title": "",
+    "description": ""
+  },
+  "mining" : {
+    "title": "",
+    "description": ""
+  },
+  "stats" : {
+    "title": "",
+    "description": ""
+  },
+  "learn" : {
+    "title": "",
+    "description": ""
+  },
+  "blocks" : {
+    "title": "",
+    "description": ""
+  },
+  "exchange" : {
+    "title": "%PRICE% - %EXCHANGE_NAME%",
+    "description": ""
+  },
+  "exchange_trades" : {
+    "title": "",
+    "description": ""
+  },
+  "exchange_orders" : {
+    "title": "",
+    "description": ""
+  },
+  "block" : {
+    "title": "",
+    "description": ""
+  },
+  "transaction" : {
+    "title": "",
+    "description": ""
+  },
+  "address" : {
+    "title": "",
+    "description": ""
+  },
+  "miner" : {
+    "title": "",
+    "description": ""
+  },
+  "learn_bitcoin-basics" : {
+    "title": "",
+    "description": ""
+  },
+  "learn_exchanges" : {
+    "title": "",
+    "description": ""
+  },
+  "learn_mempool" : {
+    "title": "",
+    "description": ""
+  },
+  "learn_mining-blockchain" : {
+    "title": "",
+    "description": ""
+  },
+  "learn_wallets" : {
+    "title": "",
+    "description": ""
+  },
+  "stats_transactions-per-day" : {
+    "title": "",
+    "description": ""
+  },
+  "stats_outputs-volume" : {
+    "title": "",
+    "description": ""
+  },
+  "stats_average-volume-per-transaction" : {
+    "title": "",
+    "description": ""
+  },
+  "stats_coins-in-circulation" : {
+    "title": "",
+    "description": ""
+  },
+  "stats_blocks-per-day" : {
+    "title": "",
+    "description": ""
+  },
+  "stats_difficulty" : {
+    "title": "",
+    "description": ""
+  },
+  "stats_hash-rate" : {
+    "title": "",
+    "description": ""
+  },
+  "stats_blockchain-size" : {
+    "title": "",
+    "description": ""
+  },
+  "stats_average-block-size" : {
+    "title": "",
+    "description": ""
+  },
+  "stats_average-transaction-fees" : {
+    "title": "",
+    "description": ""
+  },
+  "stats_transaction-fees" : {
+    "title": "",
+    "description": ""
+  },
+  "stats_transactions-per-block" : {
+    "title": "",
+    "description": ""
+  }
+}
