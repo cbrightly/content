@@ -1,126 +1,126 @@
 {
   "/": {
     "title": "Bitcoin Data",
-    "description": "Comprehensive, real-time data source for Bitcoin prices, markets, network, mining, blockchain and transactions"
+    "description": "Comprehensive, real-time data source for bitcoin prices, markets, network, mining, blockchain and transactions"
   },
   "markets" : {
-    "title": "",
-    "description": ""
+    "title": "Kaiko Index: Bitcoin Prices, Exchange Rates and Markets",
+    "description": "Kaiko Index: Real-time bitcoin prices, exchange rates and market data in international currencies"
   },
   "blockchain" : {
-    "title": "",
-    "description": ""
+    "title": "Bitcoin Blockchain Explorer and Transaction Data",
+    "description": "Search the public bitcoin blockchain, network, block details, addresses and full transaction history"
   },
   "mining" : {
-    "title": "",
-    "description": ""
+    "title": "Bitcoin Mining Data and Details",
+    "description": "Real-time details and technical data on bitcoin mining activity, including pool sizes, difficulty and hash rate"
   },
   "stats" : {
-    "title": "",
-    "description": ""
+    "title": "Kaiko Bitcoin Statistics and Charts Lab",
+    "description": "Daily technical data affecting the bitcoin network – transaction sizes and numbers, fees, block data, outputs, block sizes, difficulty and hash rate"
   },
   "learn" : {
-    "title": "",
-    "description": ""
+    "title": "Learn the Basics of Bitcoin",
+    "description": "Learn all about bitcoin, how bitcoin works, bitcoin history and how bitcoin is used in Kaiko's introduction and guide"
   },
   "blocks" : {
-    "title": "",
-    "description": ""
+    "title": "Bitcoin Block Sizes and Technical Data",
+    "description": "Average bitcoin block sizes, volumes, transactions per block, times and values"
   },
   "exchange" : {
     "title": "%PRICE% - %EXCHANGE_NAME%",
-    "description": ""
+    "description": "Live bitcoin price updates and exchange data from %EXCHANGE_NAME%"
   },
   "exchange_trades" : {
-    "title": "",
-    "description": ""
+    "title": "Live Bitcoin Exchange Trade Data From %EXCHANGE_NAME%",
+    "description": "Live, real-time bitcoin exchange trades and latest order book data from %EXCHANGE_NAME%"
   },
   "exchange_orders" : {
-    "title": "",
-    "description": ""
+    "title": "Live Order Book Data From %EXCHANGE_NAME%",
+    "description": "Live, real-time market depth and latest order book data from %EXCHANGE_NAME%"
   },
   "block" : {
-    "title": "",
-    "description": ""
+    "title": "What is a Bitcoin Block?",
+    "description": "Up-to-date bitcoin block data, sizes and volumes. Learn how this affects the network"
   },
   "transaction" : {
-    "title": "",
-    "description": ""
+    "title": "What Does a Bitcoin Transaction Look Like?",
+    "description": "Detailed information and full historic data on bitcoin transactions, addresses, sizes and volumes"
   },
   "address" : {
-    "title": "",
-    "description": ""
+    "title": "What is a Bitcoin Address?",
+    "description": "Search for bitcoin address data, including their public keys and full transaction history"
   },
   "miner" : {
-    "title": "",
-    "description": ""
+    "title": "What is a Bitcoin Miner?",
+    "description": "How are bitcoins produced? Learn about bitcoin mining and how it works"
   },
   "learn_bitcoin-basics" : {
-    "title": "",
-    "description": ""
+    "title": "The Essential Basics of Bitcoin",
+    "description": "New to bitcoin? Learn the basics with our essential introduction here"
   },
   "learn_exchanges" : {
-    "title": "",
-    "description": ""
+    "title": "How to Use a Bitcoin Exchange",
+    "description": "Learn how bitcoin exchanges work and how to use them to trade bitcoin for cash"
   },
   "learn_mempool" : {
-    "title": "",
-    "description": ""
+    "title": "What is the Bitcoin Mempool?",
+    "description": "What is the bitcoin mempool and how is it relevant to bitcoin blocks and the network?"
   },
   "learn_mining-blockchain" : {
-    "title": "",
-    "description": ""
+    "title": "Bitcoin Mining and the Blockchain",
+    "description": "Learn how bitcoin mining helps secure the blockchain and confirms valid transactions"
   },
   "learn_wallets" : {
-    "title": "",
-    "description": ""
+    "title": "How to Use a Bitcoin Wallet",
+    "description": "Learn about bitcoin wallets and how to use them to send and receive bitcoin transactions"
   },
   "stats_transactions-per-day" : {
-    "title": "",
-    "description": ""
+    "title": "How Many Bitcoin Transactions Per Day?",
+    "description": "Daily totals for bitcoin transaction data and amounts"
   },
   "stats_outputs-volume" : {
-    "title": "",
-    "description": ""
+    "title": "What Are Bitcoin Inputs and Outputs?",
+    "description": "What are bitcoin inputs and outputs, and what does the word change mean in bitcoin addresses?"
   },
   "stats_average-volume-per-transaction" : {
-    "title": "",
+    "title": "How Much is the Average Bitcoin Transaction?",
     "description": ""
   },
   "stats_coins-in-circulation" : {
-    "title": "",
-    "description": ""
+    "title": "How Many Bitcoins Are in Circulation Now?",
+    "description": "Bitcoin has a maximum 21 million coins. Find out how many already exist"
   },
   "stats_blocks-per-day" : {
-    "title": "",
-    "description": ""
+    "title": "How Many Bitcoin Blocks in One Day?",
+    "description": "A bitcoin block is confirmed on average once every 10 minutes. See daily averages and updates on block numbers here"
   },
   "stats_difficulty" : {
-    "title": "",
-    "description": ""
+    "title": "What is Bitcoin Difficulty?",
+    "description": "Learn about bitcoin network difficulty and how it impacts mining hardware and activity"
   },
   "stats_hash-rate" : {
-    "title": "",
-    "description": ""
+    "title": "What is the Total Bitcoin Hash-rate?",
+    "description": "View chart describing the total computing (hash-rate) power of the bitcoin mining network"
   },
   "stats_blockchain-size" : {
-    "title": "",
-    "description": ""
+    "title": "How Large is the Bitcoin Blockchain?",
+    "description": "View chart describing the total bitcoin blockchain size and hard drive memory required to store it"
   },
   "stats_average-block-size" : {
-    "title": "",
-    "description": ""
+    "title": "How Large is an Average Bitcoin Block?",
+    "description": "View chart describing average bitcoin block size and how this affects transaction confirmations"
   },
   "stats_average-transaction-fees" : {
-    "title": "",
-    "description": ""
+    "title": "How Much Are Average Bitcoin Transaction Fees?",
+    "description": "View chart describing average bitcoin transaction fees paid, and how this affects transaction times"
   },
   "stats_transaction-fees" : {
-    "title": "",
-    "description": ""
+    "title": "How Much is Paid in Total Bitcoin Transaction Fees?",
+    "description": "View chart describing the total transaction fees paid per day on the bitcoin network"
   },
   "stats_transactions-per-block" : {
-    "title": "",
-    "description": ""
+    "title": "How Many Transactions Fit in a Bitcoin Block?",
+    "description": "View chart describing the total size of each bitcoin block, and how this affects transaction times"
   }
 }
