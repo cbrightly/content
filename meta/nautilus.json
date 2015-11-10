@@ -11,16 +11,8 @@
     "title": "Terms of Service",
     "description": "Kaiko Terms of Service"
   },
-  "/markets/prices" : {
+  "/markets/:tab" : {
     "title": "Kaiko Index: Bitcoin Prices, Exchange Rates and Markets",
-    "description": "Kaiko Index: Real-time bitcoin prices, exchange rates and market data in international currencies"
-  },
-  "/markets/volumes" : {
-    "title": "Kaiko Index: Bitcoin volumes across markets",
-    "description": "Kaiko Index: Real-time bitcoin prices, exchange rates and market data in international currencies"
-  },
-  "/markets/arbitrages" : {
-    "title": "Kaiko Index: arbitrage for Bitcoin Prices",
     "description": "Kaiko Index: Real-time bitcoin prices, exchange rates and market data in international currencies"
   },
   "/blockchain" : {
