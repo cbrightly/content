@@ -3,7 +3,7 @@
 
 As well as financial transactions using bitcoin (the currency), the blockchain can be used to store small amounts of other data as well. By storing data in this way, it is timestamped and permanently recorded at that point in history. Like payment records, it is unable to be altered once its block is confirmed. 
 
-So far, this function has been used to record business documents (eg: [Factom](http://factom.org/)), ownership of intellectual property (eg: [Ascribe](https://www.ascribe.io/ )), contracts and notarized documents (eg: [BitProof](https://bitproof.io/)), identity confirmation (eg: [BlockchainID](https://github.com/okTurtles/blockchainid)) and all sorts of random personal messanges and info – even marriages and births (eg: [Eternity Wall](http://eternitywall.it/), [Forever](https://forever.btcc.com/)).
+So far, this function has been used to record business documents (eg: [Factom](http://factom.org/)), ownership of intellectual property (eg: [Ascribe](https://www.ascribe.io/ )), contracts and notarized documents (eg: [BitProof](https://bitproof.io/)), identity confirmation (eg: [BlockchainID](https://github.com/okTurtles/blockchainid)) and all sorts of random personal messages and info – even marriages and births (eg: [Eternity Wall](http://eternitywall.it/), [Forever](https://forever.btcc.com/)).
 
 Other organizations have sought to use the bitcoin blockchain as a means for users to record asset ownership or create their own non-bitcoin digital currencies for various purposes (eg: [Coinspark](http://coinspark.org/), [Colu](https://www.colu.co/), [Counterparty](http://counterparty.io/)).
 
