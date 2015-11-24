@@ -15,5 +15,3 @@ This transaction has different kinds of outputs. One is the $10 you gave to the 
 Bitcoin does not have physical bills. So that means there are 'output' amounts of all different sizes floating around out there, depending on how they were spent in the past. To make sure each transaction is the right amount, bitcoin wallet software needs to either break up large amounts, or combine smaller ones.
 
 Your bitcoin wallet doesn't actually think in terms of total figures. It thinks about all your combined 'inputs' and 'outputs' and calculates their net worth, which it displays to you as a total. For a human, that's easier to understand.
-
-How did this hit 31 million BTC in one day: 19th September, 2012?
