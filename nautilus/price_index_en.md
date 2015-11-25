@@ -122,7 +122,7 @@ that can potentially be executed.
 
 ### Market mover
 
-The last point consists in identifying a "market mover".
+The last point concerns identifying a "market mover".
 
 The market mover is the exchange on which the price is "made", as
 opposed to other markets where the price is merely the result of
