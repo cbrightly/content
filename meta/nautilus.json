@@ -87,20 +87,20 @@
     "title": "Bitcoin Transactions Per Day",
     "description": "Chart of the number of Bitcoin transactions per day over time."
   },
-  "/stats/outputs-volume" : {
-    "title": "Bitcoin Transaction Value",
-    "description": "Chart of the value of Bitcoin transactions over time."
+  "/stats/transaction-volume" : {
+    "title": "Bitcoin Transaction Volume Per Day",
+    "description": "Chart of the volume of Bitcoin transactions over time."
   },
   "/stats/average-volume-per-transaction" : {
     "title": "Average Bitcoin Transaction Volume Per Day",
     "description": "Chart of the average transaction volume per day over time."
   },
   "/stats/coins-in-circulation" : {
-    "title": "Total Bitcoins in Circulation",
-    "description": "Chart of the number of bitcoins in circulation over time."
+    "title": "Cumulative Bitcoins in Circulation",
+    "description": "Chart of the cumulative number of bitcoins in circulation over time."
   },
   "/stats/blocks-per-day" : {
-    "title": "Total Bitcoin Blocks per Day",
+    "title": "Bitcoin Blocks Per Day",
     "description": "Chart of the number of blocks per day over time."
   },
   "/stats/difficulty" : {
