@@ -15,6 +15,10 @@
     "title": "Bitcoin Price",
     "description": "A set of robust price indexes computed from the largest Bitcoin exchanges, available in USD, CNY and EUR."
   },
+  "/exchanges" : {
+    "title": "Bitcoin Exchanges Tickers",
+    "description": "Tickers of the largest Bitcoin exchanges in the world."
+  },
   "/exchanges/tickers" : {
     "title": "Bitcoin Exchanges Tickers",
     "description": "Tickers of the largest Bitcoin exchanges in the world."
