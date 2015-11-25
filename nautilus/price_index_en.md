@@ -1,7 +1,7 @@
 # Price index and financial data computation
 
 We compute a global price index using data from various exchanges and
-currencies (United State Dollar, euro, Chinese Yen). This global index
+currencies (USD, EUR, CNY). This global index
 reflects the general price of the bitcoin across the world and is
 expressed in US dollars (internally, values in foreign currencies are
 converted to USD).
