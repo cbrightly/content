@@ -11,25 +11,25 @@ using their APIs. We store all trades and take order book snapshots every minute
 ## Values Used
 
 ### From trades data
-* last price for each currency pair for each exchange
-* trade volume over a time window, which reflects an exchange's activity
+* Last price for each currency pair for each exchange
+* Trade volume over a time window, which reflects an exchange's activity
 * Volume Weighted Average Price (VWAP) over a time window, in order to smooth spiky price variations
-* price volatility over a time window, which reflects historical price movement amplitude
-* effective spread over a time window
-* current trend, the result of a linear regression between prices and dates
+* Price volatility over a time window, which reflects historical price movement amplitude
+* Effective spread over a time window
+* Current trend, the result of a linear regression between prices and dates
 
 ### From order book snapshots
-* bid, ask, mid and spread
-* book depth at a certain distance from the mid
-* book liquidity for a given amount of bitcoins or fiat
+* Bid, ask, mid and spread
+* Book depth at a certain distance from the mid
+* Book liquidity for a given amount of bitcoins or fiat
 
 ## Index Computation
 
 First we compute the VWAP across all exchanges.
 VWAP, however, may be limited in two ways:
 
-- exchanges that experience a high volume crash don't necessarily represent the rest of the market.
-- exchanges that artificially increase their volume, but don't have correspondingly high liquidity, can appear healthier than warranted.
+- Exchanges that experience a high volume crash don't necessarily represent the rest of the market.
+- Exchanges that artificially increase their volume, but don't have correspondingly high liquidity, can appear healthier than warranted.
 
 To solve these issues, we use order book depth "at a certain
 distance". This complements the VWAP, which weights by actual trading volume, with additional weighting by potential trading volume.
