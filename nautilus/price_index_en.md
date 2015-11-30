@@ -6,17 +6,17 @@ We also compute currency-specific indices for USD, CNY and EUR to provide spot r
 ## Data collection
 
 We collect trades and order book data from exchanges
-using their APIs. We store all trades and take order book snapshots every minute. The daily foreign exchange reference rates from the [European Central Bank](https://www.ecb.europa.eu/stats/exchange/eurofxref/html/index.en.html) is used to convert amounts from CNY and EUR to USD in the case of our global index.
+using their APIs. We store all trades and take order book snapshots every minute. Daily foreign exchange reference rates from the [European Central Bank](https://www.ecb.europa.eu/stats/exchange/eurofxref/html/index.en.html) are used to convert amounts from CNY and EUR to USD for our global index.
 
-## Used values
+## Values Used
 
-### From trades
-* last price for each currency pair of each exchange
+### From trades data
+* last price for each currency pair for each exchange
 * trade volume over a time window, which reflects an exchange's activity
 * Volume Weighted Average Price (VWAP) over a time window, in order to smooth spiky price variations
-* Price volatility over a time window, which reflects historical price movement amplitude
+* price volatility over a time window, which reflects historical price movement amplitude
 * effective spread over a time window
-* the current trend, result of a linear regression between prices and dates
+* current trend, the result of a linear regression between prices and dates
 
 ### From order book snapshots
 * bid, ask, mid and spread
@@ -26,19 +26,19 @@ using their APIs. We store all trades and take order book snapshots every minute
 ## Index Computation
 
 First we compute the VWAP across all exchanges.
-However, the VWAP is limited in two ways:
+VWAP, however, may be limited in two ways:
 
 - exchanges that experience a high volume crash don't necessarily represent the rest of the market.
-- exchanges that artificially increase their volume but don't have correspondingly large liquidity appear healthier than warranted
+- exchanges that artificially increase their volume, but don't have correspondingly high liquidity, can appear healthier than warranted.
 
-To solve these issues, we use the order books' depth at a certain
-distance. This complements the VWAP that weights by actual trading volume with weighting by potential trading volume.
+To solve these issues, we use order book depth "at a certain
+distance". This complements the VWAP, which weights by actual trading volume, with additional weighting by potential trading volume.
 
-Finally, we identify a principal market in real time. The principal market is the exchange on which the price is "made", as
-opposed to other markets which are merely followers. We do this by computing the correlation between the
+Finally, we identify a principal market in real-time. The principal market is the exchange on which the price is "made", as
+opposed to other markets which are merely followers. We do this by computing the correlation between
 buy/sell pressure and the price trend. The principal market changes over time and is determined at each iteration.
 
 ### Final Weights
 
-The volume and depth weighted price of the market mover accounts for 50% of the final value. The other 50% is proportionnally spread between the volume and depth
+The volume and depth weighted price of the market mover accounts for 50% of the final value. The other 50% is proportionally spread between the volume and depth
 weighted prices of the other exchanges.
