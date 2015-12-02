@@ -10,12 +10,12 @@ We are a team of experienced data and analytical technologists. We make the tool
 
 ## Contact Information
 
-To find out more about Kaiko, [please send us an email](mailto:hello@challenger-deep.com).
+To find out more about Kaiko, [please send us an email](mailto:hello@kaiko.com).
 
-**For other correspondence:**  
+**For other correspondence:**
 Kaiko
-3 rue de Montyon  
-75009 Paris  
-FRANCE  
+3 rue de Montyon
+75009 Paris
+FRANCE
 
 **Phone:** +33 9 67 17 86 04
