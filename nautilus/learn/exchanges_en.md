@@ -16,7 +16,7 @@ There are a few different types of bitcoin exchange to cater to different needs:
 
 ### Simple brokerage exchange  ###
 
-These exchanges are the easiest to use. The exchange sets a single price (the current market price plus a trading fee) for 'buying' and 'selling' bitcoin, meaning the customer has only a few buttons to click. 
+These exchanges are the easiest to use. The exchange sets a single price (the current market price plus a trading fee) for 'buying' and 'selling' bitcoin, meaning the customer has only a few buttons to click.
 
 Simple brokerage exchanges often serve local markets where access to more advanced trading platforms are not yet available for technological, legal or operator experience reasons. They may also allow direct purchases of bitcoins with credit cards, but may also be restricted to use in their local jurisdictions.
 
@@ -24,7 +24,7 @@ Examples of major simple bitcoin brokerages are: [Coinbase](https://www.coinbase
 
 ### Open order book (‘live’) exchange: Market, Limit and Range orders  ###
 
-Slightly more complicated for amateurs, these exchanges allow trading at current market price ('market order') but also let customers set a desired price ('limit order'). In this case, the trade only executes when the bitcoin price rises or falls to the customer's choice, otherwise it sits in wait. Customers may also set a wider price range ('range order') rather than an exact one. 
+Slightly more complicated for amateurs, these exchanges allow trading at current market price ('market order') but also let customers set a desired price ('limit order'). In this case, the trade only executes when the bitcoin price rises or falls to the customer's choice, otherwise it sits in wait. Customers may also set a wider price range ('range order') rather than an exact one.
 
 These exchanges usually also have basic charts to show price direction and an order book of current orders.
 
@@ -32,7 +32,7 @@ Examples of live, open-order book exchanges include [Coinbase Exchange](https://
 
 ### Professional exchange  ###
 
-These exchanges have all the features of the previous two, plus a range of features and tools to attract far more experienced forex (foreign exchange) traders. Options vary greatly, but can include margin trading, leverage, bitcoin lending with interest, multiple currencies, 
+These exchanges have all the features of the previous two, plus a range of features and tools to attract far more experienced forex (foreign exchange) traders. Options vary greatly, but can include margin trading, leverage, bitcoin lending with interest, multiple currencies,
 
 Amateurs can use professional exchanges to make simple trades, though a basic knowledge of trading terminology is required.
 
@@ -40,13 +40,13 @@ Professional traders can use their exchange's charts or, better still, specializ
 
 Note: Exchanges with multiple currencies usually allow trading between BTC and one other currency at a time only, though as platforms become more like the mainstream forex industry, at least one ([Quoine](https://www.quoine.com/)) has begun to offer trading between local currencies without touching bitcoin at all.
 
-Advanced-feature professional exchanges are often based outside the US and EU, and include [OKCoin](https://www.okcoin.com/) (China/Singapore), [Huobi](https://www.huobi.com/?lang=en) and its partners (China) and [Bitfinex](https://www.bitfinex.com/) (Hong Kong). 
+Advanced-feature professional exchanges are often based outside the US and EU, and include [OKCoin](https://www.okcoin.com/) (China/Singapore), [Huobi](https://www.huobi.com/?lang=en) and its partners (China) and [Bitfinex](https://www.bitfinex.com/) (Hong Kong).
 
 ### Non-fiat exchanges  ###
 
 These exchanges can offer some or all of the services listed above, but with a twist: trades, purchases, sales, deposits and withdrawals are available in cryptocurrency only. They do not trade in national/fiat currencies at all.
 
-Non-fiat exchanges usually specialize in trading between multiple cryptocurrencies, including bitcoin and hundreds of popular and obscure ‘altcoins’ [LINK to ALTCOINS]. As well as offering more variety (and volatility), non-fiat exchanges are often not subject to as much regulation as fiat-money exchanges, including know-your-customer and anti-money laundering (KYC-AML) identification requirements. This may change in future, though, as such exchanges become more popular.
+Non-fiat exchanges usually specialize in trading between multiple cryptocurrencies, including bitcoin and hundreds of popular and obscure ‘altcoins’. As well as offering more variety (and volatility), non-fiat exchanges are often not subject to as much regulation as fiat-money exchanges, including know-your-customer and anti-money laundering (KYC-AML) identification requirements. This may change in future, though, as such exchanges become more popular.
 
 Examples of non-fiat, multiple cryptocurrency exchanges are [Cryptsy](https://www.cryptsy.com/) and [Poloniex](https://poloniex.com/), while [CoinArch](https://www.coinarch.com/) offers basic bitcoin derivatives and dollar-value balances without trading in actual dollars.
 
@@ -70,7 +70,7 @@ For this reason, many exchanges located in places like Hong Kong, Singapore or t
 
 ### Level of Trading Experience  ###
 
-Some exchanges are more consumer-oriented while others try to attract professional-level traders. See our section '[What Types of Bitcoin Exchanges Are There?]()' for more details. 
+Some exchanges are more consumer-oriented while others try to attract professional-level traders. See our section '[What Types of Bitcoin Exchanges Are There?]()' for more details.
 
 ## What is a 'Fiat Currency'? ##
 
@@ -84,11 +84,11 @@ Fiat currencies have been both successful at retaining value (like the US and Ca
 
 'Liquidity' in bitcoin and elsewhere refers to the number of units an exchange can trade without substantially moving the price up or down.
 
-Put simply, if there aren't many traders on a particular exchange, selling only a handful of bitcoins would see a big drop in price. The more users and trades, the higher the liquidity, the more stable the price and the easier it is to buy or sell. 
+Put simply, if there aren't many traders on a particular exchange, selling only a handful of bitcoins would see a big drop in price. The more users and trades, the higher the liquidity, the more stable the price and the easier it is to buy or sell.
 
 'Volumes' refers to the number of trades executed on an exchange within a chosen time period. High volumes usually equal higher liquidity. If the bitcoin price makes a big move on a high-volume high-liquidity exchange, it is more meaningful to trading analysts.
 
-Some bitcoin exchanges have, at times, been accused of 'artificially' inflating volumes in order to appear more popular and liquid, in order to attract more customers. While actual reasons for this are unknown, the exchanges' most common explanation is that abormal-looking high volumes are due to external high-frequency traders accessing the platforms via their APIs. 
+Some bitcoin exchanges have, at times, been accused of 'artificially' inflating volumes in order to appear more popular and liquid, in order to attract more customers. While actual reasons for this are unknown, the exchanges' most common explanation is that abormal-looking high volumes are due to external high-frequency traders accessing the platforms via their APIs.
 
 Kaiko's exchanges data features a proprietary algorithm that provides the most accurate picture of exchanges' 'true' trading volumes, giving users a better chance at choosing the right trading platform.
 
@@ -98,29 +98,26 @@ Unlike the international forex market for national currencies, bitcoin exchanges
 
 ## What are Bitcoin Price Indexes For? ##
 
-Since bitcoin markets operate as separate entities, their prices are not always exactly the same. Though the difference is generally a few dollars, some exchanges’ prices may deviate markedly from the pack due to issues unique to that exchange. 
+Since bitcoin markets operate as separate entities, their prices are not always exactly the same. Though the difference is generally a few dollars, some exchanges’ prices may deviate markedly from the pack due to issues unique to that exchange.
 
 (An extreme example of this was when the now-defunct Mt Gox was collapsing in February 2014, but continued to trade. Its price was below $200 while all other exchanges were still above $900. Less significant deviations have occurred due to technical instability, particularly large trades, or doubts over an exchange’s viability.)
 
-Therefore, it is necessary to aggregate price data from various exchanges in order to indicate the ‘true’ value of 1 BTC at any given time. 
+Therefore, it is necessary to aggregate price data from various exchanges in order to indicate the ‘true’ value of 1 BTC at any given time.
 
 Bitcoin price indexes may be simple averages of different exchanges chosen by a select criteria, or may include other data points or weightings depending on what the index considers meaningful.
 
 The best example is Kaiko’s own ‘[Real Volumes Index]()’. See our ‘methodology’ section for details on how it is calculated.
 
-Other well-known examples are CoinDesk’s [Bitcoin Price Index](http://www.coindesk.com/price/) and the Winklevoss brothers’ [Winkdex](https://winkdex.com/). 
+Other well-known examples are CoinDesk’s [Bitcoin Price Index](http://www.coindesk.com/price/) and the Winklevoss brothers’ [Winkdex](https://winkdex.com/).
 
 Bitcoin Price Indexes, like those available on Kaiko or CoinDesk, will compare prices from various exchanges using their own algorithms to work out the most accurate average.
 
 ## Are there other kinds of indexes? What do they show? ##
 
-Yes, certainly. Some indexes gather data from sources other than just price to indicate where the price (and general mood) is heading. These might include levels of investment capital, positive vs. negative news stories in the media, developer and entrepreneur interest, and online interactions. 
+Yes, certainly. Some indexes gather data from sources other than just price to indicate where the price (and general mood) is heading. These might include levels of investment capital, positive vs. negative news stories in the media, developer and entrepreneur interest, and online interactions.
 
 Providers’ index algorithms weight different data points in proprietary ways to show information they regard as meaningful.
-
-One important example is Kaiko’s ‘[Fear Index](LINK)', which displays a chart of multiple factors that could determine bitcoin price movements – which are not always obvious.
 
 Another example is bitcoin VC firm Pantera Capital’s weekly ‘[BitIndex](https://panteracapital.com/bitindex/)' which is calculated from seven data points including Wikipedia views, hashrate, merchant adoption, transaction volumes and Google searches.
 
 **_*Note: Companies mentioned as examples in this guide should not be viewed as an endorsement by Kaiko. Users should engage in their own research before trusting funds to any product or service._**
-

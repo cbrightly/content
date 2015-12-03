@@ -1,7 +1,7 @@
 # Introduction to Bitcoin Wallets #
 
 ## What is a Bitcoin Wallet? ##
-Bitcoin Wallets are for storing bitcoins. In most cases, a 'wallet' is a software app that lets users spend and receive bitcoins. Think of something that works like an online bank account, but is accessible as cash in a regular wallet. 
+Bitcoin Wallets are for storing bitcoins. In most cases, a 'wallet' is a software app that lets users spend and receive bitcoins. Think of something that works like an online bank account, but is accessible as cash in a regular wallet.
 
 A basic, smartphone-based wallet does just that: send and receive bitcoins. Users send payments by scanning the recipient's QR code (displayed on a phone, web page or in-store terminal) with the phone camera. Your own wallet can display a QR code for others to pay you.
 
@@ -21,15 +21,15 @@ Luckily, wallets are becoming more user-friendly all the time, so that trade-off
 # Bitcoin Wallets: Important Terms to Understand #
 
 ## Bitcoin (Public) Address ##
-This is a string of around 30 alphanumeric characters, starting with 1 or 3, which is used to send and receive bitcoin values. Bitcoin public addresses work in a similar way to email addresses on the surface, though they usually don't have a person's name attached or any other identifier. They are also more disposable – many bitcoin users these days use a different address for every transaction, creating more privacy. If a single address is used repeatedly, deep data analysis may reveal its owner by observing behavioural and spending patterns. 
+This is a string of around 30 alphanumeric characters, starting with 1 or 3, which is used to send and receive bitcoin values. Bitcoin public addresses work in a similar way to email addresses on the surface, though they usually don't have a person's name attached or any other identifier. They are also more disposable – many bitcoin users these days use a different address for every transaction, creating more privacy. If a single address is used repeatedly, deep data analysis may reveal its owner by observing behavioural and spending patterns.
 
 Bitcoin addresses are also sometimes referred to as 'public keys'.
 
-Addresses may exist completely offline and can be printed on physical objects. Even if only used once, every address is permanent and can hold a bitcoin value forever if required. To view the current value of any bitcoin address ever created, use Kaiko's [Blockchain Explorer](LINK)
+Addresses may exist completely offline and can be printed on physical objects. Even if only used once, every address is permanent and can hold a bitcoin value forever if required. To view the current value of any bitcoin address ever created, use Kaiko's [Blockchain Explorer](https://www.kaiko.com/blockchain)
 
 ### How Many Bitcoin Addresses Are There?  ###
 
-The total possible number of bitcoin addresses, using current methods to create them, [is 2^160](https://bitcointalk.org/index.php?topic=24268.0). That is... a lot. So many, in fact, as to almost be infinite (there are only 2^63 grains of sand on all the beaches on Earth). It is possible, even desirable, to create a new bitcoin address for every transaction, no matter how large or small. 
+The total possible number of bitcoin addresses, using current methods to create them, [is 2^160](https://bitcointalk.org/index.php?topic=24268.0). That is... a lot. So many, in fact, as to almost be infinite (there are only 2^63 grains of sand on all the beaches on Earth). It is possible, even desirable, to create a new bitcoin address for every transaction, no matter how large or small.
 
 ## Bitcoin QR Code ##
 This is the 2-dimensional, machine-readable 'barcode' that can be scanned and read with a smartphone camera or webcam. Up to now, these have been the most common ways for devices to read and display bitcoin addresses, since a bitcoin address would be cumbersome to enter on a keyboard and difficult to remember.
@@ -41,9 +41,9 @@ QR codes are used to display both public addresses (keys) and private keys. If y
 ## Bitcoin Private Key ##
 A private key is a cryptographic 'password' linked to an address. These keys are stored securely and in secret by wallet software. Knowing this number gives you the ability to spend whatever bitcoin value exists at that address. If you have your life savings stored at one bitcoin address, guard the private key extremely well. If you lose it you will never be able to recover your balance.
 
-Bitcoin private keys usually begin with the number '5' or '6'. The '5' addresses are unencrypted and vulnerable to theft by anyone who can see them. A private key starting with '6' is encrypted with an additional password. The latter type is safer... provided you remember the password and know how to decrypt it. 
+Bitcoin private keys usually begin with the number '5' or '6'. The '5' addresses are unencrypted and vulnerable to theft by anyone who can see them. A private key starting with '6' is encrypted with an additional password. The latter type is safer... provided you remember the password and know how to decrypt it.
 
-Some wallets allow private keys to be remembered and recovered by generating them from a single ‘seed phrase’. See ‘[HD Wallets](LINK)’ on this page for more information.
+Some wallets allow private keys to be remembered and recovered by generating them from a single ‘seed phrase’. See ‘[HD Wallets](https://www.kaiko.com/learn/wallets#bitcoin-hd-wallet)’ on this page for more information.
 
 ## Open/Closed-Source Wallet ##
 **Open Source**: this means the programming (source) code for the wallet software is published publicly and available for anyone to examine. An advantage is it may be more trustworthy or secure because of this. The disadvantage is: if you are the wallet developer, anyone can copy your product.
@@ -51,12 +51,12 @@ Some wallets allow private keys to be remembered and recovered by generating the
 **Closed Source**: in this case, the source code is kept secret by the software developer. Creators can keep unique features to themselves for a competitive advantage. The disadvantage is no-one can see what the software is actually doing behind the scenes, which may reduce trust if the developer isn't well-known.
 
 ## Bitcoin HD Wallet ##
-HD stands for 'Hierarchical Deterministic'. This wallet generates all its public addresses and private keys from a single 'seed' – which is often (but not necessarily) a string of random words. 
+HD stands for 'Hierarchical Deterministic'. This wallet generates all its public addresses and private keys from a single 'seed' – which is often (but not necessarily) a string of random words.
 
 The advantages of an HD wallet are: they can be recovered on another device, using the seed phrase, if the original device is lost, damaged or replaced, and they can generate new address keys for every transaction, allowing greater privacy – it is far more difficult to connect a user to a single bitcoin address if it's used only once, as there are no spending or behavioural patterns to observe.
 
 ## Online Bitcoin Wallet Service ##
-This kind of wallet works in a similar way to any other internet-based service, like your bank or Facebook. You log in with a user name and password, and all your information (including account, bitcoin total) is stored on that service's servers in its data center. The advantage is you can access your bitcoin account from a number of different devices and locations. The disadvantages are: if the wallet provider is not secure, there is a risk they could be hacked with the loss of your bitcoins and/or personal information. You need to know the provider is trustworthy, and likely to stay in business. It is generally not advisable to keep large sums of money on an online wallet (though see the '[Multisig Wallet](LINK)' section for more useful information on this).
+This kind of wallet works in a similar way to any other internet-based service, like your bank or Facebook. You log in with a user name and password, and all your information (including account, bitcoin total) is stored on that service's servers in its data center. The advantage is you can access your bitcoin account from a number of different devices and locations. The disadvantages are: if the wallet provider is not secure, there is a risk they could be hacked with the loss of your bitcoins and/or personal information. You need to know the provider is trustworthy, and likely to stay in business. It is generally not advisable to keep large sums of money on an online wallet (though see the '[Multisig Wallet](https://www.kaiko.com/learn/wallets#bitcoin-multisig-wallet)' section for more useful information on this).
 
 ## ‘Full Client’ Bitcoin Wallet ##
 This is the oldest and most powerful kind of bitcoin client. Usually confined to desktop machines, full clients download the entire bitcoin blockchain (currently around 37GB of information) and keep a full record of every bitcoin transaction, ever. Today they are used by more technically-able users (and those with large hard drives). They help keep the bitcoin network secure by adding one more 'node' to the network that can verify transactions. Examples of full client wallets are [Bitcoin Core](https://bitcoin.org/en/download) and [Armory](https://bitcoinarmory.com/).
@@ -95,4 +95,3 @@ NB: The 'seed' phrase for an HD wallet is essentially a brain wallet, if you bel
 ##  Bitcoin Hardware Wallet  ##
 
 New kinds of bitcoin wallet hardware devices are emerging that attempt to merge the security of a paper/offline wallet with the spending convenience of a software wallet. These devices vary in features, but usually store their bitcoin keys locally on a device, keeping them off hard drives and the internet. To access or spend the funds, users plug the device into a PC or phone via USB, and sign in with a password and/or other credentials. Examples of hardware wallets in common use today are the [Trezor](http://www.bitcointrezor.com/) and [Ledger](https://www.ledgerwallet.com/) devices.
-

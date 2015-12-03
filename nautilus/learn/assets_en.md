@@ -10,4 +10,4 @@ The expression 'Asset Transaction' itself refers to a component of the bitcoin p
 
 Some developers maintain the bitcoin blockchain could become 'bloated' with data unrelated to transactions, and that other solutions should be developed instead. Others say it is necessary to add other services to the blockchain to increase its appeal.
 
-Using this chart you can see how much non-bitcoin-transaction data is going into the bitcoin blockchain each day, and the amount each organization is contributing to this.
+Using this [chart](https://www.kaiko.com/assets) you can see how much non-bitcoin-transaction data is going into the bitcoin blockchain each day, and the amount each organization is contributing to this.
