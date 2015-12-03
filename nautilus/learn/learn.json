@@ -59,6 +59,17 @@
         "How can I use the index ?"
       ],
       "not_live": true
+    },
+    {
+      "title": "Assets",
+      "slug": "assets",
+      "languages": ["en"],
+      "subtitles": [
+        "What is a bitcoin asset transaction ?",
+        "How are they used ?",
+        "How are they created ?"
+      ],
+      "not_live": false
     }
   ]
 }
