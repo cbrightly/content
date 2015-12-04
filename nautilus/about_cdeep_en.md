@@ -1,6 +1,6 @@
 # About Kaiko
 
-Digital currency, and blockchain technology is cutting-edge and growing fast. Complex and multi-layered. Its scenery can change in an instant. How will you navigate it without reliable data?
+Digital currency, and blockchain technology is cutting-edge and growing fast. Complex and multi-layered. Its scenery can change in an instant. How will you navigate it without reliable data ?
 
 New participants in a brand-new industry need the best information available, but it’s hard to find. Knowing where to invest. Finding the right position for a new business. Knowing exactly where your bitcoin holdings are. Understanding a complex market inside and out. Understanding both competitors and like minds. The advantage of being first to know where everything sits. Data with real meaning, not just charts and tables.
 
