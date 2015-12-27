@@ -1,6 +1,6 @@
 ## Hash Rate
 
-The Hash Rate chart is related closely to the Difficulty chart. The unit measured here is 'hashes per second' – or, the number of cryptographic hash functions performed by mining hardware on a bitcoin block header every second.
+The Hash Rate chart is related closely to the [Difficulty](https://kaiko.com/statistics/difficulty) chart. Key differences are: hash rate is constantly fluctuating, whereas Difficulty is a fixed number set by the system on a periodic basis. The unit measured here is 'hashes per second' – or, the number of cryptographic hash functions performed by mining hardware on a bitcoin block header every second.
 
 Given the power of machines now driving the bitcoin network and the sheer number of them, this number is now massive. The chart shows 'petahashes', with one petahash equalling one quadrillion (1,000,000,000,000,000) hashes. The figure '350P' on the y-axis of the chart therefore means the combined worldwide network performs 350 quadrillion (350,000,000,000,000,000) hash functions every second.
 
