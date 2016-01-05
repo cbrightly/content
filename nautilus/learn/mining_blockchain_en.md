@@ -51,7 +51,7 @@ The machine that solves the problem is the winner, and the block of transactions
 
 A new block begins and 25 new bitcoins are created. The winning miner receives the new bitcoins, and the process begins its 10-minute cycle again.
 
-(Initially this was 50 new bitcoins every 10 minutes. Every four years that number halves – it became 25 in 2013, and will halve again to 12.5 bitcoins in 2017.)
+(Initially this was 50 new bitcoins every 10 minutes. Every four years that number halves – it became 25 in November 2012, and will halve again to 12.5 bitcoins in July 2016.)
 
 As soon as one block is solved, miners begin working on the next one.
 
