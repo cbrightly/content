@@ -1,6 +1,9 @@
 # Kaiko Bitcoin Price Index Information
 
-Kaiko's global bitcoin price index is a live USD-equivalent spot rate for Bitcoin. It is computed from trade and order book data from the leading exchanges across three trading pairs: BTC/USD, BTC/CNY and BTC/EUR.
+Kaiko's global bitcoin price index is a live USD-equivalent spot rate for Bitcoin. It is computed from trade and order book data from the following pairs and exchanges: 
+* BTC/USD: Bitfinex, Bitstamp, Kraken, Coinbase, itBit, BTC-e, Huobi, Okcoin, Gemini 
+* BTC/CNY: Huobi, Okcoin, BTCC
+* BTC/EUR: Kraken, itBit, Conbase, BTC-e
 We also compute currency-specific indices for USD, CNY and EUR to provide spot rates that are not impacted by foreign exchange.
 
 ## Data collection
