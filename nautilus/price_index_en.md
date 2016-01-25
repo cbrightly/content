@@ -4,6 +4,7 @@ Kaiko's global bitcoin price index is a live USD-equivalent spot rate for Bitcoi
 * BTC/USD: Bitfinex, Bitstamp, Kraken, Coinbase, itBit, BTC-e, Huobi, Okcoin, Gemini 
 * BTC/CNY: Huobi, Okcoin, BTCC
 * BTC/EUR: Kraken, itBit, Conbase, BTC-e
+
 We also compute currency-specific indices for USD, CNY and EUR to provide spot rates that are not impacted by foreign exchange.
 
 ## Data collection
