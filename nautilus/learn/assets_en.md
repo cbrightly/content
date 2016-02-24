@@ -11,3 +11,15 @@ The expression 'Asset Transaction' itself refers to a component of the bitcoin p
 Some developers maintain the bitcoin blockchain could become 'bloated' with data unrelated to transactions, and that other solutions should be developed instead. Others say it is necessary to add other services to the blockchain to increase its appeal.
 
 Using this [chart](https://www.kaiko.com/assets) you can see how much non-bitcoin-transaction data is going into the bitcoin blockchain each day, and the amount each organization is contributing to this.
+
+## &nbsp;
+
+### What's next?
+
+Keep going with our educational pages:
+<br>
+<a href='https://kaiko.com/learn/exchanges'>Bitcoin Exchanges</a>  &nbsp; &nbsp; -  &nbsp; &nbsp; <a href='https://kaiko.com/learn/wallets'>Bitcoin Wallets</a> &nbsp; &nbsp;  -  &nbsp; &nbsp; <a href='https://kaiko.com/learn/wallets'>Mining</a> &nbsp; &nbsp; - &nbsp; &nbsp; <a href='https://kaiko.com/learn/mempool'>Mempool</a>
+
+Or explore Kaiko's data and charts:
+<br>
+<a href='/blockchain'>Blockchain Explorer</a>  &nbsp; &nbsp; -  &nbsp; &nbsp; <a href='/exchanges/prices'>Exchanges</a> &nbsp; &nbsp;  - &nbsp; &nbsp; <a href='/bitcoin-price'>Bitcoin Price</a> &nbsp; &nbsp; - &nbsp; &nbsp; <a href='/bitcoin-clock'>Bitcoin Clock</a> &nbsp; &nbsp; - &nbsp; &nbsp; <a href='/assets'>Blockchain Assets</a> - &nbsp; &nbsp; <a href='/mining'>Mining</a>

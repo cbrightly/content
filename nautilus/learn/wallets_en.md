@@ -95,3 +95,15 @@ NB: The 'seed' phrase for an HD wallet is essentially a brain wallet, if you bel
 ##  Bitcoin Hardware Wallet  ##
 
 New kinds of bitcoin wallet hardware devices are emerging that attempt to merge the security of a paper/offline wallet with the spending convenience of a software wallet. These devices vary in features, but usually store their bitcoin keys locally on a device, keeping them off hard drives and the internet. To access or spend the funds, users plug the device into a PC or phone via USB, and sign in with a password and/or other credentials. Examples of hardware wallets in common use today are the [Trezor](http://www.bitcointrezor.com/) and [Ledger](https://www.ledgerwallet.com/) devices.
+
+## &nbsp;
+
+### What's next?
+
+Keep going with our educational pages:
+<br>
+<a href='https://kaiko.com/learn/exchanges'>Bitcoin Exchanges</a>  &nbsp; &nbsp; -  &nbsp; &nbsp; <a href='https://kaiko.com/learn/wallets'>Mining</a> &nbsp; &nbsp; - &nbsp; &nbsp; <a href='https://kaiko.com/learn/mempool'>Mempool</a>
+
+Or explore Kaiko's data and charts:
+<br>
+<a href='/blockchain'>Blockchain Explorer</a>  &nbsp; &nbsp; -  &nbsp; &nbsp; <a href='/exchanges/prices'>Exchanges</a> &nbsp; &nbsp;  - &nbsp; &nbsp; <a href='/bitcoin-price'>Bitcoin Price</a> &nbsp; &nbsp; - &nbsp; &nbsp; <a href='/bitcoin-clock'>Bitcoin Clock</a> &nbsp; &nbsp; - &nbsp; &nbsp; <a href='/assets'>Blockchain Assets</a> - &nbsp; &nbsp; <a href='/mining'>Mining</a>

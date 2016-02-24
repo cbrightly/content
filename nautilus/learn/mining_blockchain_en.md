@@ -127,3 +127,15 @@ At the time of writing this is 42GB of data and is always increasing. See Kaiko'
 
 To operate properly as a bitcoin node, the operator must have a connection open and a machine operating without sleeping at least six hours a day (preferably 24 hours).
 They must also allow incoming connections on port 8333, which is not always available to everyone without manual router/firewall configuration.
+
+## &nbsp;
+
+### What's next?
+
+Keep going with our educational pages:
+<br>
+<a href='https://kaiko.com/learn/exchanges'>Bitcoin Exchanges</a>  &nbsp; &nbsp; -  &nbsp; &nbsp; <a href='https://kaiko.com/learn/wallets'>Bitcoin Wallets</a> &nbsp; &nbsp;  -  &nbsp; &nbsp; <a href='https://kaiko.com/learn/wallets'>Mining</a> &nbsp; &nbsp; - &nbsp; &nbsp; <a href='https://kaiko.com/learn/mempool'>Mempool</a>
+
+Or explore Kaiko's data and charts:
+<br>
+<a href='/blockchain'>Blockchain Explorer</a>  &nbsp; &nbsp; -  &nbsp; &nbsp; <a href='/exchanges/prices'>Exchanges</a> &nbsp; &nbsp;  - &nbsp; &nbsp; <a href='/bitcoin-price'>Bitcoin Price</a> &nbsp; &nbsp; - &nbsp; &nbsp; <a href='/bitcoin-clock'>Bitcoin Clock</a> &nbsp; &nbsp; - &nbsp; &nbsp; <a href='/assets'>Blockchain Assets</a> - &nbsp; &nbsp; <a href='/mining'>Mining</a>
