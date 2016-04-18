@@ -1,5 +1,3 @@
-###[Gemini](https://gemini.com/) (USA)###
-
 Announced in January 2015 and launched in October that year, Gemini is the much-anticipated trading platform of internet entrepreneurs and bitcoin investors Cameron and Tyler Winklevoss. 
 
 Gemini filed with the NYDFS to become a [limited liability trust company](https://gemini24.zendesk.com/hc/en-us/articles/204734485-Is-Gemini-a-licensed-and-regulated-exchange-) (under the same conditions as itBit) in order to become only the second New York-based exchange since that state introduced special 'BitLicense' regulations for bitcoin businesses.

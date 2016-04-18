@@ -1,5 +1,3 @@
-###[BTC-e](https://btc-e.com/)### 
-
 BTC-e is one of the oldest bitcoin exchanges still in business, and is still one of the most popular with traders due to its generally lower BTC prices, active chatroom, greater privacy, and selection of trading pairs. Balances are available in multiple national and digital currencies including USD, EUR, Russian rubles, litecoin, novacoin and namecoin (which can be traded in various pairs). 
 
 The exchange itself is a simple limit-order exchange, with no margin trading or leverage.

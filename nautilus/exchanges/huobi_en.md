@@ -1,5 +1,3 @@
-###[Huobi](https://www.huobi.com/) (PR China)### 
-
 Huobi, along with OKCoin, regularly claim to be the most popular bitcoin trading platforms in the world by sheer volumes, which is often attributed to their fee-free trading structure and encouragement of algorithmic trading.
 
 It offers spot trading in CNY, USD, BTC, and litecoin (for CNY traders only) with interfaces in Chinese and English, yet by far the largest percentage of trading is CNY-based. A fast-trading system called 'Flash Trade' is available for active traders. 

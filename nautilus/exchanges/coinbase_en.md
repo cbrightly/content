@@ -1,5 +1,3 @@
-###[Coinbase](http://coinbase.com/) (USA, EU)###
-
 Coinbase is the most popular bitcoin exchange, wallet and point-of-sale operator in the USA and world in general, though its services differ between countries and US states according to regulation. It began in 2012 in San Francisco as a simple market-price brokerage service for US customers, allowing them to connect customer accounts to regular bank accounts. It has raised over $106m in funding to date.
 
 It now offers accounts to customers in 32 countries, with trading in USD, EUR, GBP, CAD and SGD. 26 of those countries can buy bitcoins with credit and debit cards, without the need for a bank transfer. It also offers the 'Shift' card to US customers, allowing them to withdraw BTC funds directly to a Visa Debit card.

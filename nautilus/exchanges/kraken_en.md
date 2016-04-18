@@ -1,5 +1,3 @@
-###[Kraken](https://www.kraken.com/) (USA, EU, Japan)###
-
 Although headquartered in San Francisco since 2011, Kraken is better known as an exchange for EUR (it is the world's highest-volume BTC-EUR exchange) and also offers trading in GBP, CAD, JPY and USD.  
 
 The platform offers trading between cash, bitcoin, litecoin and ethereum – and between bitcoin and numerous other digital currencies including dogecoin, ripple and stellar.

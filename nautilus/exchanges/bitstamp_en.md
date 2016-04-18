@@ -1,5 +1,3 @@
-###[Bitstamp](https://www.bitstamp.net/) (EU)###
-
 Slovenia-based Bitstamp first rose to prominence in late 2013, when it overtook the floundering Mt Gox as the world's busiest bitcoin exchange. It is still one of the most popular worldwide.
 
 In January 2015 it suffered a hacking attack in which it lost 19,000 BTC, but quickly came back online with enhanced security features, and no customers lost funds. 
