@@ -2,7 +2,7 @@ Slovenia-based Bitstamp first rose to prominence in late 2013, when it overtook 
 
 In January 2015 it suffered a hacking attack in which it lost 19,000 BTC, but quickly came back online with enhanced security features, and no customers lost funds. 
 
-[Bitstamp offers](https://www.bitstamp.net/faq/) basic market and limit orders, with a fee grade depending on customer history and volumes traded. There are also small fees for non-bitcoin deposits, withdrawals, and fiat currency conversion. Despite its European location, trading is between USD and BTC or XRP (Ripple). 
+[Bitstamp offers](https://www.bitstamp.net/faq/) basic market and limit orders, with a fee grade depending on customer history and volumes traded. There are also small fees for non-bitcoin deposits, withdrawals, and fiat currency conversion. Bitstamp started by offering trading between USD and BTC or XRP (Ripple). In April 2016, Bitstamp was granted a license by the Luxembourg government to be a fully regulated and licensed exchange in the E.U., hence enabling trading between EUR and BTC.
 
 Deposits are made via SEPA (if within the EU) or bank transfer if outside, and all amounts are converted to USD. Customers must verify their accounts by completing KYC procedures before accessing any of the exchange features.
 
