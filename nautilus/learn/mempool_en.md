@@ -16,8 +16,7 @@ The mempool is usually (though not always) completely emptied as miners confirm 
 
 Keep going with our educational pages:
 <br>
-<a href='https://kaiko.com/learn/bitcoin-basics'>Bitcoin Basics</a>  &nbsp; &nbsp; - &nbsp; &nbsp; <a href='https://kaiko.com/learn/exchanges'>Bitcoin Exchanges</a>  &nbsp; &nbsp; -  &nbsp; &nbsp; <a href='https://kaiko.com/learn/wallets'>Bitcoin Wallets</a> &nbsp; &nbsp;  -  &nbsp; &nbsp; <a href='https://kaiko.com/learn/wallets'>Mining</a> &nbsp; &nbsp; - &nbsp; &nbsp; <a href='https://kaiko.com/learn/mempool'>Mempool</a>
-
+<a href='/learn/bitcoin-basics'>Bitcoin Basics</a>  &nbsp; &nbsp; - &nbsp; &nbsp; <a href='/learn/exchanges'>Bitcoin Exchanges</a> &nbsp; &nbsp; - &nbsp; &nbsp; <a href='/learn/mining-blockchain'>Mining</a>  &nbsp; &nbsp; -  &nbsp; &nbsp; <a href='/learn/wallets'>Bitcoin Wallets</a>  &nbsp; &nbsp; -  &nbsp; &nbsp; <a href='/learn/assets'>Assets</a>
 Or explore Kaiko's data and charts:
 <br>
 <a href='/blockchain'>Blockchain Explorer</a>  &nbsp; &nbsp; -  &nbsp; &nbsp; <a href='/exchanges/prices'>Exchanges</a> &nbsp; &nbsp;  - &nbsp; &nbsp; <a href='/bitcoin-price'>Bitcoin Price</a> &nbsp; &nbsp; - &nbsp; &nbsp; <a href='/bitcoin-clock'>Bitcoin Clock</a> &nbsp; &nbsp; - &nbsp; &nbsp; <a href='/assets'>Blockchain Assets</a>

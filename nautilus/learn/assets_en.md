@@ -18,7 +18,7 @@ Using this [chart](https://www.kaiko.com/assets) you can see how much non-bitcoi
 
 Keep going with our educational pages:
 <br>
-<a href='https://kaiko.com/learn/exchanges'>Bitcoin Exchanges</a>  &nbsp; &nbsp; -  &nbsp; &nbsp; <a href='https://kaiko.com/learn/wallets'>Bitcoin Wallets</a> &nbsp; &nbsp;  -  &nbsp; &nbsp; <a href='https://kaiko.com/learn/wallets'>Mining</a> &nbsp; &nbsp; - &nbsp; &nbsp; <a href='https://kaiko.com/learn/mempool'>Mempool</a>
+<a href='/learn/bitcoin-basics'>Bitcoin Basics</a>  &nbsp; &nbsp; -  &nbsp; &nbsp; <a href='/learn/exchanges'>Bitcoin Exchanges</a>  &nbsp; &nbsp; -  &nbsp; &nbsp; <a href='/learn/mempool'>Mempool</a> &nbsp; &nbsp; - &nbsp; &nbsp; <a href='/learn/mining-blockchain'>Mining</a>  &nbsp; &nbsp; -  &nbsp; &nbsp; <a href='/learn/wallets'>Bitcoin Wallets</a>
 
 Or explore Kaiko's data and charts:
 <br>

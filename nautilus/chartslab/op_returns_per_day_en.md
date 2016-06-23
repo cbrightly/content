@@ -4,4 +4,4 @@ This chart shows the number of transactions which contain at least one output us
 
 So this chart gives a good idea of the frequency at which assets are stored in the Blockchain.
 
-To learn more about Bitcoin Asset Transactions, please refer to [our learn section](https://kaiko.com/learn/assets)
+To learn more about Bitcoin Asset Transactions, please refer to [our learn section](https://www.kaiko.com/learn/assets)

@@ -1,6 +1,6 @@
 ## Difficulty
 
-See also: [Bitcoin Mining](https://kaiko.com/learn/mining-blockchain)
+See also: [Bitcoin Mining](https://www.kaiko.com/learn/mining-blockchain)
 
 As more computing (hashing) power is introduced to the bitcoin network, the difficulty of the cryptographic function required to confirm and mine blocks increases. This is to maintain a steady stream of new bitcoin blocks every 10 minutes or so.
 
