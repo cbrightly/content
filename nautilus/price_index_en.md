@@ -15,10 +15,8 @@ using their APIs. We store all trades and take order book snapshots every minute
 ## Weights Computation
 
 For each (exchange, currency pair), and given a time-window T, we compute:
-* the average of the sum of asks from the mid price to the mid price + 1%.
-* the average of the sum of bids from the mid price to the mid price - 1%.
-* the sum of the volume bought
-* the sum of the volume sold
+* the average of the sum of asks and bids from the mid price - 1% to the mid price + 1%;
+* the sum of the volume bought and sold.
 We then apply 35% weights to the liquidity values (sum of asks and bids)
 and 15% weights to the volume values. This rewards exchanges that are
 actually liquid more than those that boost their volume through zero-fee
