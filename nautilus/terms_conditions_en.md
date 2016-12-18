@@ -10,6 +10,4 @@ You also agree to use the Resources only for the purposes allowed by the T&C and
 
 Resources may be accessed only by the means provided by Kaiko. Access, attempted or successful, of the Resources here via other means is not permitted. Access or attempted access, interference with or disruption to the networks or servers where the Resources are located is prohibited.
 
-Kaiko does not permit the resale, copying, reproduction or duplication of any Resources provided here, with or without source attribution.
-
-For terms related to the consequences of using Kaiko data, please see our Data Use Terms and Disclaimer [here](LINK).
+Except where otherwise noted, content on Kaiko.com is licensed under a Creative Commons Attribution 4.0 International license - non commercial use only. For more information about the license, please refer to the Creative Commons website [here](http://creativecommons.org/licenses/by-nc-sa/4.0/).

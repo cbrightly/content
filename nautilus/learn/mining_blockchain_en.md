@@ -127,3 +127,57 @@ At the time of writing this is 42GB of data and is always increasing. See Kaiko'
 
 To operate properly as a bitcoin node, the operator must have a connection open and a machine operating without sleeping at least six hours a day (preferably 24 hours).
 They must also allow incoming connections on port 8333, which is not always available to everyone without manual router/firewall configuration.
+
+
+## How are mining pools organized? ##
+
+The power (hashrate) and size of bitcoin mining pools is constantly changing. [Our charts](https://www.kaiko.com/mining) show how this has happened over a 1-2 month period. Once-dominant pools may now be either minor players or non-existent as miners left, either to avoid a single miner controlling 51%+ of total network power, or to the promise of greater rewards elsewhere.
+
+Although a pool may be organized from a certain location (ie: China) miners may join from anywhere in the world, as long as they can understand the setup and management instructions.
+
+Generally, pools pay a bitcoin reward proportionate to the share of hashing power a member contributes to the pool, though exact methods can be subtly different. Here are the main reward types :
+
+#### BPM ####
+Bitcoin Pooled Mining - used by Slush's pool; uses an anti-cheating mechanism that gives extra weight to more recent shares in a block round and extra weight to older shares.
+
+#### CPPSRB ####
+Capped Pay Per Share with Recent Backpay. Pays out the maximum amount possible from rewards earned, though capped to avoid the pool going bankrupt.
+
+#### DGM ####
+Double Geometric Method. Similar to PPLNS, it places more risk on the operator, which collects a portion of the payouts on some rounds and returns them on others to smooth out payments amounts.
+
+#### ESMPPS ####
+Equalized Shared Maximum Pay Per Share. Similar to RSMPPS and SMPPS, this method pays out equally between members and caps total payouts to ensure they're never greater than what the pool earns.
+
+#### POT ####
+Pay On Target. A PPS system which pays out according to the difficulty of work performed for the pool by a miner, rather than the pool itself.
+
+#### PPLNS and PPLNSG ####
+Pay Per Last N Shares. A proportional method that examines the 'last N shares' in a pool, rather than in any given round. With Pay Per Last N Shifts/Groups the shares are grouped into 'shifts' for payment.
+
+#### PPS ####
+Pay Per Share. Pays out instant and guaranteed shares from a pre-existing BTC balance. This is a faster-paying but riskier method for operators, meaning fees for PPS pools are often a little higher.
+
+#### Prop. ####
+Proportional – the simplest kind of payout mechanism. A reward for each block the pool mines is distributed proportionally according to number of shares.
+
+####  RSMPPS ####
+ Recent Shared Maximum Pay Per Share. Similar to SMPPS, but gives priority to most recent miners.
+
+####  SCORE ####
+SCORE systems pay a proportional reward, weighed by the time work was submitted. It is designed to reward loyalty to the pool. Later shares are worth more than earlier shares and reward amounts are based more on this than proportionate share.
+
+####  SMPPS ####
+Shared Maximum Pay Per Share. Similar to PPS but doesn't pay out more than the pool earns, so operator risk is reduced.
+
+## &nbsp;
+
+### What's next?
+
+Keep going with our educational pages:
+<br>
+<a href='/learn/exchanges'>Bitcoin Exchanges</a>  &nbsp; &nbsp; -  &nbsp; &nbsp; <a href='/learn/exchanges'>Bitcoin Exchanges</a>  &nbsp; &nbsp; -  &nbsp; &nbsp; <a href='/learn/mempool'>Mempool</a> &nbsp; &nbsp; - &nbsp; &nbsp; <a href='/learn/wallets'>Bitcoin Wallets</a>  &nbsp; &nbsp; -  &nbsp; &nbsp; <a href='/learn/assets'>Assets</a>
+
+Or explore Kaiko's data and charts:
+<br>
+<a href='/blockchain'>Blockchain Explorer</a>  &nbsp; &nbsp; -  &nbsp; &nbsp; <a href='/exchanges/prices'>Exchanges</a> &nbsp; &nbsp;  - &nbsp; &nbsp; <a href='/bitcoin-price'>Bitcoin Price</a> &nbsp; &nbsp; - &nbsp; &nbsp; <a href='/bitcoin-clock'>Bitcoin Clock</a> &nbsp; &nbsp; - &nbsp; &nbsp; <a href='/assets'>Blockchain Assets</a> - &nbsp; &nbsp; <a href='/mining'>Mining</a>

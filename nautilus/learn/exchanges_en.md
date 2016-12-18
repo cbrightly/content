@@ -121,3 +121,16 @@ Providers’ index algorithms weight different data points in proprietary ways t
 Another example is bitcoin VC firm Pantera Capital’s weekly ‘[BitIndex](https://panteracapital.com/bitindex/)' which is calculated from seven data points including Wikipedia views, hashrate, merchant adoption, transaction volumes and Google searches.
 
 **_*Note: Companies mentioned as examples in this guide should not be viewed as an endorsement by Kaiko. Users should engage in their own research before trusting funds to any product or service._**
+
+## &nbsp;
+
+### What's next?
+
+Keep going with our educational pages:
+<br>
+<a href='/learn/bitcoin-basics'>Bitcoin Basics</a>  &nbsp; &nbsp; -  &nbsp; &nbsp; <a href='/learn/mempool'>Mempool</a> &nbsp; &nbsp; - &nbsp; &nbsp; <a href='/learn/mining-blockchain'>Mining</a>  &nbsp; &nbsp; -  &nbsp; &nbsp; <a href='/learn/wallets'>Bitcoin Wallets</a>  &nbsp; &nbsp; -  &nbsp; &nbsp; <a href='/learn/assets'>Assets</a>
+
+
+Or explore Kaiko's data and charts:
+<br>
+<a href='/blockchain'>Blockchain Explorer</a>  &nbsp; &nbsp; -  &nbsp; &nbsp; <a href='/exchanges/prices'>Exchanges</a> &nbsp; &nbsp;  -  &nbsp; &nbsp; <a href='/bitcoin-price'>Bitcoin Price</a> &nbsp; &nbsp; - &nbsp; &nbsp; <a href='/assets'>Blockchain Assets</a>

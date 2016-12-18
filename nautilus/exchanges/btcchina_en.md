@@ -1,0 +1,3 @@
+BTCC was originally founded as BTCChina in 2011. BTCC has activities in every segment of the bitcoin ecosystem, offering a digital currency exchange, a mining pool, payment processing, consumer wallets, and blockchain engraving.
+
+The diverse products and services BTCC offers allow its customers to engage in all aspects of the digital currency spectrum in one integrated platform. Headquartered in Shanghai, BTCC serves a global customer base and has become an industry leader for security, risk mitigation, credibility, and technological innovation. Its mission is to provide the world with the most convenient and trustworthy digital currency services.

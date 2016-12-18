@@ -9,3 +9,14 @@ You can see exactly which transactions are waiting in the current mempool [here]
 Mempool size is shown on Kaiko's [Blockchain Data chart](https://www.kaiko.com/blockchain) as an orange dotted line. It shows how effectively the bitcoin network is clearing transactions by adding them to blocks – if the line is approaching the current 1MB block size maximum limit, there's a chance low-fee transactions will not be included in the next confirmed block. If the line passes 1MB, some transactions will definitely not be included.
 
 The mempool is usually (though not always) completely emptied as miners confirm each block. Our chart shows whether that has happened or not.
+
+## &nbsp;
+
+### What's next?
+
+Keep going with our educational pages:
+<br>
+<a href='/learn/bitcoin-basics'>Bitcoin Basics</a>  &nbsp; &nbsp; - &nbsp; &nbsp; <a href='/learn/exchanges'>Bitcoin Exchanges</a> &nbsp; &nbsp; - &nbsp; &nbsp; <a href='/learn/mining-blockchain'>Mining</a>  &nbsp; &nbsp; -  &nbsp; &nbsp; <a href='/learn/wallets'>Bitcoin Wallets</a>  &nbsp; &nbsp; -  &nbsp; &nbsp; <a href='/learn/assets'>Assets</a>
+Or explore Kaiko's data and charts:
+<br>
+<a href='/blockchain'>Blockchain Explorer</a>  &nbsp; &nbsp; -  &nbsp; &nbsp; <a href='/exchanges/prices'>Exchanges</a> &nbsp; &nbsp;  - &nbsp; &nbsp; <a href='/bitcoin-price'>Bitcoin Price</a> &nbsp; &nbsp; - &nbsp; &nbsp; <a href='/bitcoin-clock'>Bitcoin Clock</a> &nbsp; &nbsp; - &nbsp; &nbsp; <a href='/assets'>Blockchain Assets</a>

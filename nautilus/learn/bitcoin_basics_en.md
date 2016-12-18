@@ -98,3 +98,15 @@ Other systems may include a cryptocurrency, though not as their primary function
 At the darker end of the spectrum, some altcoins exist only for speculative purposes, or as ‘pump and dump’ schemes to enrich their creators.
 
 Trading and holding altcoins is considered even more volatile and risky than bitcoin. To date, there has been no mass acceptance of any altcoin by merchants, and they remain a niche topic in the cryptocurrency industry. Most altcoins change hands on exchanges, or as gifts/tips.
+
+## &nbsp;
+
+### What's next?
+
+Keep going with our educational pages:
+<br>
+<a href='/learn/exchanges'>Bitcoin Exchanges</a>  &nbsp; &nbsp; -  &nbsp; &nbsp; <a href='/learn/mempool'>Mempool</a> &nbsp; &nbsp; - &nbsp; &nbsp; <a href='/learn/mining-blockchain'>Mining</a>  &nbsp; &nbsp; -  &nbsp; &nbsp; <a href='/learn/wallets'>Bitcoin Wallets</a>  &nbsp; &nbsp; -  &nbsp; &nbsp; <a href='/learn/assets'>Assets</a>
+
+Or explore Kaiko's data and charts:
+<br>
+<a href='/blockchain'>Blockchain Explorer</a>  &nbsp; &nbsp; -  &nbsp; &nbsp; <a href='/exchanges/prices'>Exchanges</a> &nbsp; &nbsp;  - &nbsp; &nbsp; <a href='/bitcoin-price'>Bitcoin Price</a> &nbsp; &nbsp; - &nbsp; &nbsp; <a href='/bitcoin-clock'>Bitcoin Clock</a> &nbsp; &nbsp; - &nbsp; &nbsp; <a href='/assets'>Blockchain Assets</a> - &nbsp; &nbsp; <a href='/mining'>Mining</a>
